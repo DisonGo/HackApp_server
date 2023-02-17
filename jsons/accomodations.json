@@ -1,0 +1,513 @@
+[
+    {
+        "userId": "EnEGonPS7E",
+        "universityId": "sUyLknnLTH",
+        "createdTimestamp": 1648658272255,
+        "details": {
+            "main-info": {
+                "name": "Общежитие АГГПУ имени В.М. Шукшина",
+                "city": "Бийск",
+                "street": "Короленко",
+                "houseNumber": "55/1",
+                "coordinates": {
+                    "lat": 52.53631527349462,
+                    "lng": 85.19421625737692
+                },
+                "minDays": "1",
+                "maxDays": "20",
+                "photos": [
+                    "https://stud-files.sabir.pro/files/EnEGonPS7E-20132f0223c6fe9a124c48abb2c727566bafe9da553a15d1c3488e5db7d4e92b.jpg",
+                    "https://stud-files.sabir.pro/files/EnEGonPS7E-d50df380f7505da813bfddbf7c6dcc686b8776223da11584d0a10c826bbe4fd5.jpg"
+                ],
+                "mealPlan": "nothing"
+            },
+            "rules": {
+                "requiredUniDocuments": "Для заселения в общежитие при себе иметь:\n-\tпаспорт;\n-\tфотографию 3x4;\n-\tсправку об отсутствии педикулеза;\nрезультат флюорографического исследования (копия);\n-\tпри наличии прививки от COVID-19 копию сертификата о вакцинации.\nПри заселении в общежитие необходимо произвести оплату за сентябрь месяц.\nЛица, не достигшие 18 лет, заселяются в присутствии родителей или законных представителей.\nВ комнате для проживания имеется;\n-\tкровать;\n-\tматрас;\n-\tстол письменный; -тумбочка;\n-\tстул.\nПо вопросам, связанным с заселением, обращаться по телефонам:\n8 (3854) 41-83-88; 8 (3854) 41-83-92-заведующий общежитием Беспалова Галина Николаевна\n8 (3854) 41-64-75 - управление по развитию, эксплуатации и содержанию имущественного комплекса\n",
+                "requiredStudentsDocuments": "Для заселения в общежитие при себе иметь:\n-\tпаспорт;\n-\tфотографию 3x4;\n-\tсправку об отсутствии педикулеза;\nрезультат флюорографического исследования (копия);\n-\tпри наличии прививки от COVID-19 копию сертификата о вакцинации.\nПри заселении в общежитие необходимо произвести оплату за сентябрь месяц.\nЛица, не достигшие 18 лет, заселяются в присутствии родителей или законных представителей.\nВ комнате для проживания имеется;\n-\tкровать;\n-\tматрас;\n-\tстол письменный; -тумбочка;\n-\tстул.\nПо вопросам, связанным с заселением, обращаться по телефонам:\n8 (3854) 41-83-88; 8 (3854) 41-83-92-заведующий общежитием Беспалова Галина Николаевна\n8 (3854) 41-64-75 - управление по развитию, эксплуатации и содержанию имущественного комплекса\n",
+                "committee": {
+                    "email": "bawikina.82@mail.ru",
+                    "phone": "89059898750",
+                    "name": "Алтайский государственный гуманитарно-педагогический университет имени В.М. Шукшина"
+                }
+            },
+            "documents": [
+                "https://stud-files.sabir.pro/files/EnEGonPS7E-e458d7045e78a8bae109fe7c8d1605114701027bd251b4c07026a8493539baf4.pdf"
+            ]
+        },
+        "onModeration": false,
+        "id": "bbcrkJUYn6",
+        "timestamp": 1648658272255,
+        "updatedTimestamp": 1657706855469,
+        "rooms": {
+            "kZnO4G6nit": {
+                "details": {
+                    "isFree": false,
+                    "type": "2-х местный номер",
+                    "description": "Университет предоставляет для проживания два комфортабельных общежития, располагающихся по адресам: ул. Короленко 55/1,2. В номере есть кровать, стол, шкаф. В секции туалет и душ.\nУспешно действуют студенческие советы общежитий, которые организуют проведение праздников и культурно-досуговых мероприятий.\n",
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/EnEGonPS7E-20132f0223c6fe9a124c48abb2c727566bafe9da553a15d1c3488e5db7d4e92b.jpg",
+                        "https://stud-files.sabir.pro/files/EnEGonPS7E-d50df380f7505da813bfddbf7c6dcc686b8776223da11584d0a10c826bbe4fd5.jpg"
+                    ],
+                    "amount": "5",
+                    "price": "100"
+                },
+                "dormitoryId": "bbcrkJUYn6",
+                "userId": "EnEGonPS7E",
+                "universityId": "sUyLknnLTH",
+                "createdTimestamp": 1651068614147,
+                "onModeration": true,
+                "updatedTimestamp": 1656504838657,
+                "id": "kZnO4G6nit",
+                "timestamp": 1651068614147
+            }
+        }
+    },
+    {
+        "userId": "WP4DAJc9Vn",
+        "universityId": "50igah3VYY",
+        "createdTimestamp": 1648659631623,
+        "details": {
+            "main-info": {
+                "name": "Общежитие  №1",
+                "city": "Москва",
+                "street": "пер. Петроверигский ",
+                "houseNumber": "д. 6-8-10, стр.1",
+                "coordinates": {
+                    "lat": 55.755838903331394,
+                    "lng": 37.636947937011726
+                },
+                "photos": [
+                    "https://stud-files.sabir.pro/files/WP4DAJc9Vn-1c2ce7ef315edf2c61867d5d6ce367bc5ce6779dc896250050562d8000bd29c6.jpeg"
+                ],
+                "minDays": "1",
+                "maxDays": "10",
+                "mealPlan": "nothing"
+            },
+            "services": [
+                {
+                    "isFree": false,
+                    "id": "EOA2lTWwNZ",
+                    "name": "Стирка белья",
+                    "description": "Стирка белья в стиральной машине",
+                    "price": "150"
+                }
+            ],
+            "rules": {
+                "requiredStudentsDocuments": "- паспорт РФ (оригинал и ксерокопия);\n- копия СНИЛС;\n- студенческий билет;\n- документ, подтверждающий статус заселяющегося (справка из образовательной организации);\n- справка о результатах флюорографического обследования (до 1 года);\n- документы, подтверждающие вакцинацию от кори и дифтерии;\n- полис обязательного медицинского страхования;\n- фото 3х4 цветное;\n- согласие на обработку персональных данных.\n\nЗаселение и выезд (01.07.2022 - 31.08.2022)\nтолько в рабочие дни:\nпонедельник - четверг с 9:00 до 18:00\nпятница с 9:00 до 16:45\nОплата: наличный расчет\n* Заселение и выезд в нерабочие дни и с 18:00 до 9:00 только для групповых заездов и по предварительной договоренности\nПри бронировании нескольких мест необходимо указывать все ФИО проживающих\nЗаселение парами возможно только при наличии свидетельства о браке",
+                "requiredUniDocuments": "- паспорт РФ (оригинал и ксерокопия);\n- копия СНИЛС;\n- студенческий билет;\n- документ, подтверждающий статус заселяющегося (справка из образовательной организации);\n- справка о результатах флюорографического обследования (до 1 года);\n- документы, подтверждающие вакцинацию от кори и дифтерии;\n- полис обязательного медицинского страхования;\n- фото 3х4 цветное;\n- согласие на обработку персональных данных.\n\nЗаселение и выезд (01.07.2022 - 31.08.2022): \nтолько в рабочие дни:\nпонедельник - четверг с 9:00 до 18:00\nпятница с 9:00 до 16:45\nОплата: наличный расчет / безналичный расчет (по договору)\n* Заселение и выезд в нерабочие дни и с 18:00 до 9:00 только для групповых заездов и по предварительной договоренности\nПри бронировании нескольких мест необходимо указывать все ФИО проживающих\nЗаселение парами возможно только при наличии свидетельства о браке",
+                "committee": {
+                    "name": "Центр экскурсоведения и гостеприимства",
+                    "phone": "+74997669398",
+                    "email": "r.trofimov@linguanet.ru"
+                }
+            },
+            "documents": [
+                "https://stud-files.sabir.pro/files/WP4DAJc9Vn-d7ec4322b98ad0a189e9e45d3f306e5fa2d046eb12e8d21f2be5c2735095f9d1.pdf"
+            ]
+        },
+        "onModeration": false,
+        "id": "7zToGNZPfP",
+        "timestamp": 1648659631623,
+        "updatedTimestamp": 1657881247767,
+        "rooms": {
+            "xQgXDTVeco": {
+                "details": {
+                    "dateRange": {
+                        "from": 1656622800000,
+                        "to": 1661893200000
+                    },
+                    "isFree": false,
+                    "type": "3-х местный номер",
+                    "amount": "3",
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/WP4DAJc9Vn-ee3bf13217d762b3e5740291265aec67ddd3c25bbd11c5af77b0c5aa02bcf9b4.jpeg",
+                        "https://stud-files.sabir.pro/files/WP4DAJc9Vn-97ba48454753eb901c4fc9dba9d583e98d004c126354b4dccf98b9a725c162db.jpeg"
+                    ],
+                    "price": "45",
+                    "description": "Комнаты  общежитий предназначены для проживания двух или трех человек, предоставляется пастельное бельё. Кухни для приготовления пищи, гладильные комнаты,  комнаты для умывания  и  туалеты  находятся  на  каждом  этаже.  Душевые  кабины, постирочная и камера хранения,буфет на 40 мест расположены на первом этаже. Здание оснащено лифтом,на кухнях установлены электроплиты (12 единиц по 3 конфорки каждая).\nЗаселение и выезд:\nНА ВЫХОДНЫХ НЕ СЕЛИМ И НЕ ВЫСЕЛЯЕМ\nтолько в рабочие дни:\nпонедельник - четверг с 9:00 до 18:00\nпятница с 9:00 до 16:45"
+                },
+                "dormitoryId": "7zToGNZPfP",
+                "userId": "WP4DAJc9Vn",
+                "universityId": "50igah3VYY",
+                "createdTimestamp": 1649940066657,
+                "onModeration": true,
+                "updatedTimestamp": 1657879448953,
+                "id": "xQgXDTVeco",
+                "timestamp": 1649940066657
+            }
+        }
+    },
+    {
+        "userId": "h8sitAOGtx",
+        "universityId": "tHhiFquwEL",
+        "createdTimestamp": 1648689484564,
+        "details": {
+            "main-info": {
+                "city": "Барнаул",
+                "coordinates": {
+                    "lat": 53.34730609398818,
+                    "lng": 83.78555841306665
+                },
+                "name": "Общежитие АлтГТУ №1",
+                "street": "Комсомольский",
+                "houseNumber": "71/1",
+                "mealPlan": "nothing",
+                "minDays": "3",
+                "maxDays": "10",
+                "photos": [
+                    "https://stud-files.sabir.pro/files/h8sitAOGtx-790fabc4194dc9627fac614773a6e877c8893411ce33f7a08d21698a367f9140.jpg",
+                    "https://stud-files.sabir.pro/files/h8sitAOGtx-bc4dc18fd95289c984450f0140c3ecf0dac5df13881981c9089b244f7f78dea9.jpg"
+                ]
+            },
+            "services": [
+                {
+                    "isFree": false,
+                    "id": "ZH3xB5C06zD",
+                    "name": "Бассейн, спортивный манеж",
+                    "description": "Бассейн 25 м, 6 дорожек. Спортивный манеж с беговыми дорожками, тренажерным залом",
+                    "price": "100"
+                }
+            ],
+            "rules": {
+                "requiredUniDocuments": "1.1.\tНаправление от направляющей организации, в которой будет указан пе-риод проживания",
+                "requiredStudentsDocuments": "2.1 Паспорт\n2.2 Одну фотографию 3х4\n",
+                "committee": {
+                    "name": "Управление студенческого городка г. (Барнаул пр. Комсомольский, 67 (вход с торца))",
+                    "phone": "+73852290977",
+                    "email": "zhidkih_a@mail.ru"
+                }
+            },
+            "documents": [
+                "https://stud-files.sabir.pro/files/h8sitAOGtx-dfef2efb0f4e852187fefa1c31b7ca8e684b354e783744c3be07ba22d9023337.docx"
+            ]
+        },
+        "onModeration": false,
+        "id": "qab1lW4Acx",
+        "timestamp": 1648689484564,
+        "updatedTimestamp": 1657706876464,
+        "rooms": {
+            "1RP2mClQJc": {
+                "details": {
+                    "isFree": false,
+                    "type": "3-х местный номер",
+                    "price": "200",
+                    "description": "Комнаты на 3 кровати, стол, платяной шкаф, стулья\n",
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/h8sitAOGtx-5654b40d6cf3b74bdf0d13db78832d9b6b95f50e4ed656c98f941135431bcb3c.jpeg"
+                    ],
+                    "dateRange": {
+                        "from": 1656608400000,
+                        "to": 1659114000000
+                    },
+                    "amount": "15"
+                },
+                "dormitoryId": "qab1lW4Acx",
+                "userId": "h8sitAOGtx",
+                "universityId": "tHhiFquwEL",
+                "createdTimestamp": 1649326303297,
+                "onModeration": true,
+                "updatedTimestamp": 1654075840500,
+                "id": "1RP2mClQJc",
+                "timestamp": 1649326303297
+            },
+            "eH9lvt4sGA": {
+                "details": {
+                    "dateRange": {
+                        "from": 1656608400000,
+                        "to": 1659114000000
+                    },
+                    "isFree": false,
+                    "type": "2-х местный номер",
+                    "amount": "15",
+                    "price": "200",
+                    "description": "2 односпальных кровати, 2 тумбочки, шкаф",
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/h8sitAOGtx-c081d5558eb0f4b3e8289439ab0b71b68cb3541ec3e8509fc3cfe7be865ac3d2.jpeg"
+                    ]
+                },
+                "dormitoryId": "qab1lW4Acx",
+                "userId": "h8sitAOGtx",
+                "universityId": "tHhiFquwEL",
+                "onModeration": true,
+                "createdTimestamp": 1654071442040,
+                "updatedTimestamp": 1654075861663,
+                "id": "eH9lvt4sGA",
+                "timestamp": 1654071442040
+            }
+        }
+    },
+    {
+        "userId": "DbZwIW7dqN",
+        "universityId": "XlgEFH7xZc",
+        "onModeration": false,
+        "createdTimestamp": 1648694757323,
+        "details": {
+            "main-info": {
+                "name": "Общежитие КГУ №1",
+                "city": "Курган",
+                "street": "Максима Горького",
+                "houseNumber": "70",
+                "coordinates": {
+                    "lat": 55.43539999433309,
+                    "lng": 65.3433536315165
+                },
+                "mealPlan": "nothing",
+                "photos": [
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-20c8886b0f4f966a48fb7e7f45830c509944126b9bc3888881b8dcc9f668ec8d.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-0e7ed2b36b5a5d88df1d44d15fbf2dc80c5d734eb00dace1cd78b8bc010b5d30.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-ff6a242225e45f5459494fb3f0e39c314de1675c93e9daf171bb8d02a93f4451.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-27c5bdd659b115d22c8c0f1acac2fa374520194ac41f21cd297bbfa54efd031c.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-da0e9102fd7ea8ace6ad0500d9edb1bea1a4d16c22e244099a083317324ac35b.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-c9d4833c5bc54dad0d153e2b36389dade8cf5df06022e236f10c69861f50765a.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-a84602f197de0677b18691b9cfb9aeaec6f1595f6f62fcc605ac763fbf61e938.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-bd1effe6506a8b9b5d7fb69733675e33b62819cded85eb81a4ee06e4fff7244d.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-75c1024c46371534fbe2063bece637d73d554d09e0ca20256959727b48df7976.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-9e6229dfc076dd65da033ddac743090db87d9d3d90cc182e275ebca19c830a81.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-22be5e42308b8c4c0d31a224337bff9e3321719eff82cd55111708636b0b7cea.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-801f6dd426668580f00ed6f60475e0adada87a571e95effb3c5daa3a1148ab3a.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-c81a53186f91e69680691303cef9c6b8317f5cca988b8f165cffd60a97f4734f.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-5af5da71bf7d1407326170f80406d965df6963a1fd4006b2e3fb129fa0a0188f.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-a69b116f89d1aa2a11e8c6febb9fc02390a6830425fd54b499dc32259d27e791.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-f09b0b179f9f3445d569df55ca6f1801dc8e98ae61474c02620533f52fbf078f.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-c5f1d9141b05701f2e118290c191ab09d5896949f6faa7222b61e8e7efc0f2a3.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-f64af10baa38e0fbdc54eda0bc5b4c95abb9598350bd0acbec2dcd72d6a8618b.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-d6445c19a9bc753e99eaa44c8d5a72ad4a1510026f081c67f6b3b9010a9ed45e.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-98d873efff59e3d1bc3c76f66171d0431c4ee6aef5a1f27996ddabd7ed9a1b72.jpg",
+                    "https://stud-files.sabir.pro/files/DbZwIW7dqN-8e62e0318183638234fcf5786032cd8dc6684ce6e946c8acf9be0000a91530e2.jpg"
+                ],
+                "minDays": "1",
+                "maxDays": "14"
+            },
+            "rules": {
+                "committee": {
+                    "email": "kislaya_kg@kgsu.ru",
+                    "phone": "+7 (3522)65-49-01",
+                    "name": "Управление по молодежной политике"
+                },
+                "requiredStudentsDocuments": " ",
+                "requiredUniDocuments": " "
+            },
+            "documents": [
+                "https://stud-files.sabir.pro/files/DbZwIW7dqN-6f4f9d4da8e2c61b6a7710ed86698a005ad4b3e05147320da3f0b380b233b477.pdf"
+            ]
+        },
+        "id": "v7Fa24oSU9",
+        "timestamp": 1648694757323,
+        "updatedTimestamp": 1657706879429,
+        "rooms": {
+            "9Tbvz6m6rw": {
+                "details": {
+                    "dateRange": {
+                        "from": 1656961200000,
+                        "to": 1660935600000
+                    },
+                    "isFree": false,
+                    "type": "3-х местный номер",
+                    "price": "53",
+                    "description": "В комфортабельном трехместном номере площадью 18 кв. м. располагаются двухъярусные и стандартные кровати, плательный шкаф, рабочий стол, стулья и комод. Общежитие коридорного типа, в каждом крыле есть санузел и кухня. На кухне есть столы, общие холодильники, раковина и электрические плиты. Душевые комнаты и прачечные располагаются на первом этаже. \nПри заселении следует иметь с собой предметы личной гигиены и полотенце.",
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/DbZwIW7dqN-bd1effe6506a8b9b5d7fb69733675e33b62819cded85eb81a4ee06e4fff7244d.jpg",
+                        "https://stud-files.sabir.pro/files/DbZwIW7dqN-75c1024c46371534fbe2063bece637d73d554d09e0ca20256959727b48df7976.jpg"
+                    ],
+                    "amount": "10"
+                },
+                "dormitoryId": "v7Fa24oSU9",
+                "userId": "DbZwIW7dqN",
+                "universityId": "XlgEFH7xZc",
+                "onModeration": true,
+                "createdTimestamp": 1653986648416,
+                "updatedTimestamp": 1655868704454,
+                "id": "9Tbvz6m6rw",
+                "timestamp": 1653986648416
+            }
+        }
+    },
+    {
+        "userId": "pogA6qQPsN",
+        "universityId": "HxAHbXJoCq",
+        "createdTimestamp": 1648706972796,
+        "details": {
+            "main-info": {
+                "name": "Общежитие № 2",
+                "city": "Калуга",
+                "street": "ул. Кутузова",
+                "houseNumber": "27",
+                "coordinates": {
+                    "lat": 54.503156148742285,
+                    "lng": 36.25985592186372
+                },
+                "mealPlan": "nothing",
+                "photos": [
+                    "https://stud-files.sabir.pro/files/pogA6qQPsN-57ce977758c8228d5c1b41c10b192565406a9c449f564bcfc3b9d6ba5416e367.jpg",
+                    "https://stud-files.sabir.pro/files/pogA6qQPsN-3400c6e68b5d7d6ebc578035347dd1f08e9c4970241598d732990aecbbf4215b.jpg"
+                ],
+                "minDays": "0",
+                "maxDays": "0"
+            },
+            "rules": {
+                "requiredUniDocuments": "1. Заявление установленного образца на предоставление места в общежитии.\n2. Копия паспорта главной страницы с фотографией, а также страницы с указанием места регистрации.\n3. Справка о составе семьи.\n4. Для лиц, имеющих право на предоставление жилого помещения в общежитии в первоочередном порядке, копия документа, подтверждающего это право.\n\n5. Иные документы, подтверждающие необходимость получения общежития (удостоверение многодетной семьи; копия пенсионного удостоверения родителей, если таковое имеется; документ, подтверждающий отсутствие транспортного обеспечения до образовательной организации и т.д.).\n\n\n",
+                "requiredStudentsDocuments": "В 2022 году свободных мест для заселения в общежития университета, к сожалению, нет.  \n",
+                "committee": {
+                    "name": "Управление культурно-воспитательной деятельности",
+                    "phone": "+79030262583",
+                    "email": "brant.ek@yandex.ru"
+                }
+            },
+            "documents": [
+                "https://stud-files.sabir.pro/files/pogA6qQPsN-700602e51d03c38e372fd0a57e9c6b1d6ffc105e654d3744657c493dbc80e927.pdf"
+            ]
+        },
+        "onModeration": false,
+        "id": "XBTs3aBQoQ",
+        "timestamp": 1648706972796,
+        "updatedTimestamp": 1657706882735,
+        "rooms": {
+            "VJ9TdpyQ7L": {
+                "details": {
+                    "isFree": false,
+                    "type": "2-х местный номер",
+                    "amount": "0",
+                    "price": "36",
+                    "description": "К сожалению, свободных мест в общежитии в 2021-2022 году нет. ",
+                    "video": [
+                        "https://stud-files.sabir.pro/files/pogA6qQPsN-aec9409d05611028012eb98a5098f08f5ef5bf63093d75d75adae80d139ef765.mp4"
+                    ],
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/pogA6qQPsN-e04a1c3f805f9b94e5c840cde9d859dd7e1d8117e3d55fc5fcba255d9bb62607.jpg"
+                    ]
+                },
+                "dormitoryId": "XBTs3aBQoQ",
+                "userId": "pogA6qQPsN",
+                "universityId": "HxAHbXJoCq",
+                "onModeration": true,
+                "createdTimestamp": 1653981706817,
+                "updatedTimestamp": 1654072990614,
+                "id": "VJ9TdpyQ7L",
+                "timestamp": 1653981706817
+            }
+        }
+    },
+    {
+        "userId": "tKJ4NFU2m1",
+        "universityId": "ee9DEkHFxR",
+        "createdTimestamp": 1648707197549,
+        "details": {
+            "main-info": {
+                "name": "Общежитие №4",
+                "city": "Красноярск",
+                "street": "Ады Лебедевой",
+                "houseNumber": "80",
+                "coordinates": {
+                    "lat": "56.015314",
+                    "lng": "92.858177"
+                },
+                "mealPlan": "nothing",
+                "minDays": "1",
+                "maxDays": "14",
+                "photos": [
+                    "https://stud-files.sabir.pro/files/tKJ4NFU2m1-dc0117f8c5fecbb4d5a8b2b278b275c2d5d69b64a3c5410b272822d4cfff67a1.jpeg",
+                    "https://stud-files.sabir.pro/files/tKJ4NFU2m1-ef12b7127e13ab457778aa2735cde1f70782a7eea345ea8438739f5df48ae79d.jpeg",
+                    "https://stud-files.sabir.pro/files/tKJ4NFU2m1-bcc7730a3eb57917664f706a9aded6a5559b99ad5065524c296c79a05edd30a2.jpeg"
+                ]
+            },
+            "rules": {
+                "requiredUniDocuments": "1. На фирменном бланке ВУЗа список проживающих с указанием факультета, курса, паспортных данных, номера телефона;\n2. Банковские реквизиты ВУЗа для заключения договора.\n3. Информационное письмо, подписанное ректором ВУЗа, с просьбой предоставить места для проживания для студентов с контактными данными сопровождающего.",
+                "requiredStudentsDocuments": "Договор заключается только с образовательной организацией",
+                "committee": {
+                    "name": "Управление по воспитательной работе КГПУ им. В.П. Астафьева, проректор по воспитательной и социальной работе Ахметгалиев Дамир Энварович",
+                    "phone": "+79233388941",
+                    "email": "prorektor_vr@kspu.ru"
+                }
+            },
+            "documents": [
+                "https://stud-files.sabir.pro/files/tKJ4NFU2m1-56b9031b4de39a2c8631147d671ed832c3bd892d6519d50e618d513556e75e21.pdf"
+            ]
+        },
+        "onModeration": false,
+        "id": "vnxAoTFrZV",
+        "timestamp": 1648707197549,
+        "updatedTimestamp": 1651242181455,
+        "rooms": {}
+    },
+    {
+        "userId": "Ckzd123gJk",
+        "universityId": "DD3giZMido",
+        "createdTimestamp": 1648707661614,
+        "details": {
+            "main-info": {
+                "name": "Общежитие №1",
+                "city": "Тамбов",
+                "street": "Советская",
+                "houseNumber": "181",
+                "coordinates": {
+                    "lat": 52.74528613705938,
+                    "lng": 41.45079837438222
+                },
+                "mealPlan": "nothing",
+                "photos": [
+                    "https://stud-files.sabir.pro/files/Ckzd123gJk-806ca58b73b4ce61a43fc8d95fca7e96513cadc041e9d5503a310d150c388416.jpg",
+                    "https://stud-files.sabir.pro/files/Ckzd123gJk-6b2dc8d92c20a6355e6badf390d571f2d188bca7f4ef82b3e0b1a9ca8d0377e0.jpg",
+                    "https://stud-files.sabir.pro/files/Ckzd123gJk-92755fcc9c50dfa8c34da7a3b5dfee37115566be32951bce37a70644cb78e673.jpg",
+                    "https://stud-files.sabir.pro/files/Ckzd123gJk-bcb1d3167cd73281b319b0377b0ad29abc3c5dec5bbee0ee8a9916d1424eefea.jpg",
+                    "https://stud-files.sabir.pro/files/Ckzd123gJk-0592b8362986ec8f6206a973c7a22ced6f3e6290b619dc0de41cf9d13b202f61.jpg",
+                    "https://stud-files.sabir.pro/files/Ckzd123gJk-b695e7e68e861170e99db87dfc713736a1d60b296a395b76552e5a252acfecc7.jpg"
+                ],
+                "minDays": "1",
+                "maxDays": "10"
+            },
+            "services": [
+                {
+                    "isFree": false,
+                    "id": "CYJ3L0FN0B",
+                    "name": "Прачечная",
+                    "price": "60",
+                    "description": "Услуги прачечной. Стоимость за одну стирку "
+                }
+            ],
+            "rules": {
+                "requiredUniDocuments": "По предварительному согласованию с принимающей стороной.\nПеречень документов:\n-паспорт (оригинал, ксерокопия);\n-студенческий билет;\n-справка об обучении;\n-ИНН;\n-Медицинский полис;\n-СНИЛС.",
+                "requiredStudentsDocuments": "По предварительному согласованию с принимающей стороной.\nПеречень документов:\n-паспорт (оригинал, ксерокопия);\n-студенческий билет;\n-справка об обучении;\n-ИНН;\n-Медицинский полис;\n-СНИЛС",
+                "committee": {
+                    "name": "Державинский Студтуризм",
+                    "email": "mp-prorektor@bk.ru",
+                    "phone": "89204889369"
+                }
+            },
+            "documents": [
+                "https://stud-files.sabir.pro/files/Ckzd123gJk-27cfbe4d96cdf8d7493fb399993aefd4150e2aa4816851439f5cf77d52a37d58.pdf"
+            ]
+        },
+        "onModeration": false,
+        "id": "9psGDGqDOv",
+        "timestamp": 1648707661614,
+        "updatedTimestamp": 1651138138501,
+        "rooms": {
+            "CMmi2TCytB": {
+                "details": {
+                    "isFree": false,
+                    "type": "3-х местный номер",
+                    "amount": "35",
+                    "price": "100",
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-1a53dfb6ef04f6f5cf30ac68bb0103ec07663e8ef6a464a38c3e6d01a116f075.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-b99d81fec840a12875b9c7115726c75a347c18b7197882f6923fdbd9bab8d98b.jpeg",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-d5360f72c9888ef02299bf0f0e9e4fb89607e6457f7ca40279bcaf5f7765c11d.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-e2a447e371d6c40512bd5b14a1a53398ead485cfc899cdadb855a1c3296af30c.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-e1a0ed37dd7c24099054fdaf8d7f3e4f0fc98ea7e42c260fcd5cade44a5e5454.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-1ca4f72541a1d784b445d483e08c8b30e391dda45ae6f9c7c0f2ccdad7befa05.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-fed0433b3e3e2067aa788b552b1fff044a0d402af10eb1a5d991dbe1243e4ca9.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-c593c7e6a7756a939b5f5a37343409afad421c11e120a71e4697a9192c4718b0.png"
+                    ],
+                    "description": "Комнаты расположены в Общежитии №1 по адресу: г.Тамбов, ул. Советская, 181 "
+                },
+                "dormitoryId": "9psGDGqDOv",
+                "userId": "Ckzd123gJk",
+                "universityId": "DD3giZMido",
+                "createdTimestamp": 1648734438659,
+                "updatedTimestamp": 1648798240651,
+                "id": "CMmi2TCytB",
+                "timestamp": 1648734438659
+            }
+        }
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "details": {
+        "isFree": false,
+        "type": "1-но местный номер",
+        "amount": "2",
+        "price": "750",
+        "description": "В номере есть стол, стулья, шкаф для одежды. Имеется чайник, телевизор, холодильник. На этаже есть общая кухня, где находятся холодильники, плита, посуда, микроволновая печь, пароварка.\nСтоимость полного пансиона (трехразового питания) + 800 руб / день",
+        "photos": [
+            "https://stud-files.sabir.pro/files/UqzgjWMApd-3c2ffc11b798e766babff11262bbdb3454f52e8dacecb150605850f44d2a29e8.jpg",
+            "https://stud-files.sabir.pro/files/UqzgjWMApd-22f7e64f6ddcec9dee121dffadc4e384156a6212e93c71848ca41873ee6df213.jpg",
+            "https://stud-files.sabir.pro/files/UqzgjWMApd-ea4c868cab9ca393e3cb7d2358ed8db723700da64843b9a05763dd244b3e4c01.jpg",
+            "https://stud-files.sabir.pro/files/UqzgjWMApd-2e086ed26d5bff4e0923a1a26d970ea1a8a6213cc4eef1794d945e95e6adb857.jpg",
+            "https://stud-files.sabir.pro/files/UqzgjWMApd-0047838694373178c59ce84c4cf0cdc27017863e872069d2cccd23c1b2863947.jpg",
+            "https://stud-files.sabir.pro/files/UqzgjWMApd-563a1a20676b2fd8a037565af244c0360e5c20cde1855119775811036cd39c70.jpg",
+            "https://stud-files.sabir.pro/files/UqzgjWMApd-c214c7ba222c14b5bbd9f647a86cd4654dab1eabe208213e504d6ec2184debae.jpg"
+        ]
+    },
+    "dormitoryId": "grn5vOQRSp",
+    "userId": "UqzgjWMApd",
+    "universityId": "DpyDDP38a5",
+    "createdTimestamp": 1648791761178,
+    "updatedTimestamp": 1649720190330,
+    "id": "iBwhYYUFqN",
+    "timestamp": 1648791761178,
+    "onModeration": false
+}
