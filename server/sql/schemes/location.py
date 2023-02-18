@@ -1,5 +1,5 @@
-from typing import List, Union
-from pydantic import BaseModel, Field, Json
+from typing import List
+from pydantic import BaseModel
 
 
 class Coordinates(BaseModel):
@@ -21,10 +21,14 @@ class LocationBase(BaseModel):
     class Config:
         orm_mode = True
 
+
 class Location(LocationBase):
     pass
 
 
-
 class LocationCreate(LocationBase):
+    id: int
+
+
+class LocationGet(LocationCreate):
     pass

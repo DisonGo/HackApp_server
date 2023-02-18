@@ -1,6 +1,5 @@
 [
     {
-        "userId": "MlcLzJOAQC",
         "name": "Первый университет",
         "description": "описание",
         "details": {
@@ -14,8 +13,6 @@
         },
         "isDebug": true,
         "onModeration": true,
-        "id": "DgxLyUYhBv",
-        "timestamp": 1647980801834,
         "createdTimestamp": 1647980801834,
         "updatedTimestamp": 1656061946992
     },
@@ -32,10 +29,7 @@
             "shortName": "МГУСиТ",
             "founderName": "Москомспорт"
         },
-        "userId": "nICvmAjsht",
         "onModeration": true,
-        "id": "EgeNKeZAtY",
-        "timestamp": 1648148678485,
         "createdTimestamp": 1648148678485,
         "updatedTimestamp": 1655375826924
     },
@@ -52,10 +46,7 @@
             "shortName": "УМЦ",
             "founderName": "В.В. Жириновский"
         },
-        "userId": "URaNaw43OG",
         "onModeration": true,
-        "id": "vR0LWw2tkz",
-        "timestamp": 1648148678755,
         "createdTimestamp": 1648148678755,
         "updatedTimestamp": 1671525805854
     },
@@ -72,10 +63,7 @@
             "shortName": "Смоленская Православная Духовная Семинария",
             "founderName": "Централизованная религиозная организация Смоленская Епархия Русской православной Церкви (Московский Патриархат) "
         },
-        "userId": "oAKAPxPWbS",
         "onModeration": true,
-        "id": "Vrkr0qRzzF",
-        "timestamp": 1648148679024,
         "createdTimestamp": 1648148679024,
         "updatedTimestamp": 1655375961850
     },
@@ -92,10 +80,7 @@
             "shortName": "БФУ им. И. Канта",
             "founderName": "Минобрнауки России"
         },
-        "userId": "GUphbGP2mX",
         "onModeration": true,
-        "id": "3C9Ur72F16",
-        "timestamp": 1648148679288,
         "createdTimestamp": 1648148679288,
         "updatedTimestamp": 1657690810452
     },
@@ -112,10 +97,7 @@
             "shortName": "ДВФУ",
             "founderName": "Минобрнауки России"
         },
-        "userId": "Qwi3hvCR40",
         "onModeration": true,
-        "id": "8iB2YKK2nh",
-        "timestamp": 1648148679582,
         "createdTimestamp": 1648148679582,
         "updatedTimestamp": 1659084907703
     },
@@ -132,10 +114,7 @@
             "shortName": "КФУ",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "7LgbmXMtXY",
         "onModeration": true,
-        "id": "gp64xygQz7",
-        "timestamp": 1648148679853,
         "createdTimestamp": 1648148679853,
         "updatedTimestamp": 1655376793397
     },
@@ -152,10 +131,7 @@
             "shortName": "КФУ им. В.И. Вернадского",
             "founderName": "Минобрнауки России"
         },
-        "userId": "zBnJE1k1uF",
         "onModeration": true,
-        "id": "AUh71zN7IX",
-        "timestamp": 1648148680119,
         "createdTimestamp": 1648148680119,
         "updatedTimestamp": 1658316284411
     },
@@ -172,10 +148,7 @@
             "shortName": "МГИМО МИД России",
             "founderName": "МИД России"
         },
-        "userId": "RiQcQbsLbq",
         "onModeration": true,
-        "id": "VtBzPFaH17",
-        "timestamp": 1648148680390,
         "createdTimestamp": 1648148680390,
         "updatedTimestamp": 1655895063444
     },
@@ -192,10 +165,7 @@
             "shortName": "ННГУ им. Н.И. Лобачевского",
             "founderName": "Минобрнауки России"
         },
-        "userId": "d5cCsi5Db0",
         "onModeration": true,
-        "id": "drVkYpHUYc",
-        "timestamp": 1648148680658,
         "createdTimestamp": 1648148680658,
         "updatedTimestamp": 1655377127130
     },
@@ -211,10 +181,7 @@
             "photo": "https://stud-files.sabir.pro/files/icXiHwwoeb-d1431aa9bad04481ce24e6cb6a2f8a8f7d4f1d62e983c33e212a8871122eb62e.jpg",
             "shortName": "НИ ТГУ"
         },
-        "userId": "icXiHwwoeb",
         "onModeration": true,
-        "id": "05DOXmmEht",
-        "timestamp": 1648148680925,
         "createdTimestamp": 1648148680925,
         "updatedTimestamp": 1666257553756
     },
@@ -231,10 +198,7 @@
             "shortName": "ТПУ",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "Zs8GQAwe1B",
         "onModeration": true,
-        "id": "s1EdogK5Gj",
-        "timestamp": 1648148681190,
         "createdTimestamp": 1648148681190,
         "updatedTimestamp": 1655380556293
     },
@@ -251,10 +215,7 @@
             "shortName": "НИУ ВШЭ, Нижегородский филиал",
             "founderName": "Правительство Российской Федерации"
         },
-        "userId": "FOg3iTV97K",
         "onModeration": true,
-        "id": "q87nCHBwSH",
-        "timestamp": 1648148681456,
         "createdTimestamp": 1648148681456,
         "updatedTimestamp": 1671606328044
     },
@@ -271,10 +232,7 @@
             "shortName": "НИУ ВШЭ-Пермь",
             "founderName": "Правительство Российской Федерации"
         },
-        "userId": "5vzmTRUEKD",
         "onModeration": true,
-        "id": "CStWk4ccWL",
-        "timestamp": 1648148681718,
         "createdTimestamp": 1648148681718,
         "updatedTimestamp": 1654012598301
     },
@@ -290,10 +248,7 @@
             "photo": "https://stud-files.sabir.pro/files/2XwBCI1x3j-e54874eca78f0948615e8a00e323f252a79e8839fdcb6d6f7acaab871adb7b45.jpg",
             "shortName": "НИУ ВШЭ СПБ"
         },
-        "userId": "2XwBCI1x3j",
         "onModeration": true,
-        "id": "2mN64mjJK2",
-        "timestamp": 1648148681972,
         "createdTimestamp": 1648148681972,
         "updatedTimestamp": 1653469214431
     },
@@ -310,10 +265,7 @@
             "shortName": "НГУ ",
             "founderName": "Российская Федерация"
         },
-        "userId": "SQ7HgEmJdT",
         "onModeration": true,
-        "id": "ACfR3ER5qz",
-        "timestamp": 1648148682230,
         "createdTimestamp": 1648148682230,
         "updatedTimestamp": 1657791492988
     },
@@ -329,10 +281,7 @@
             "committee": "Отдел молодежной политики ",
             "shortName": "ОмГТУ"
         },
-        "userId": "bB1pU3Wh3F",
         "onModeration": true,
-        "id": "FZ7WqdUrpt",
-        "timestamp": 1648148682483,
         "createdTimestamp": 1648148682483,
         "updatedTimestamp": 1655381083078
     },
@@ -348,10 +297,7 @@
             "committee": "Управление общежитиями ",
             "shortName": "ПНИПУ"
         },
-        "userId": "OBujfVbNj6",
         "onModeration": true,
-        "id": "Bfk2uxkiFw",
-        "timestamp": 1648148682752,
         "createdTimestamp": 1648148682752,
         "updatedTimestamp": 1655381149413
     },
@@ -368,10 +314,7 @@
             "shortName": "РГППУ",
             "founderName": "Минпросвещения России"
         },
-        "userId": "P1gzPvkz95",
         "onModeration": true,
-        "id": "wjQntOEiAf",
-        "timestamp": 1648148683015,
         "createdTimestamp": 1648148683015,
         "updatedTimestamp": 1657542581034
     },
@@ -387,10 +330,7 @@
             "committee": "Организационный комитет",
             "shortName": "РУДН"
         },
-        "userId": "VTEYqTQb6A",
         "onModeration": true,
-        "id": "OMbQZXlr1e",
-        "timestamp": 1648148684082,
         "createdTimestamp": 1648148684082,
         "updatedTimestamp": 1655381279646
     },
@@ -406,10 +346,7 @@
             "photo": "https://stud-files.sabir.pro/files/e3qlPZ6NgQ-01cd0e0bc35c377c9f44a937916d9a08addc71bf7c74cf2f25f989dafd5909f7.jpg",
             "shortName": "СПбПУ"
         },
-        "userId": "e3qlPZ6NgQ",
         "onModeration": true,
-        "id": "GtDmVLW889",
-        "timestamp": 1648148684344,
         "createdTimestamp": 1648148684344,
         "updatedTimestamp": 1657699730557
     },
@@ -426,10 +363,7 @@
             "founderName": "СОЛ \"Горизонт\"",
             "shortName": "СевГУ"
         },
-        "userId": "rwACAzZ5qC",
         "onModeration": true,
-        "id": "lYbsYPAOks",
-        "timestamp": 1648148685748,
         "createdTimestamp": 1648148685748,
         "updatedTimestamp": 1655381440164
     },
@@ -446,10 +380,7 @@
             "site": "https://www.s-vfu.ru/",
             "committee": "СВФУ"
         },
-        "userId": "UDzRHfdGje",
         "onModeration": true,
-        "id": "2Bnj1salXk",
-        "timestamp": 1648148687554,
         "createdTimestamp": 1648148687554,
         "updatedTimestamp": 1667263940929
     },
@@ -466,10 +397,7 @@
             "shortName": "СКФУ",
             "founderName": "Минорбрануки РФ"
         },
-        "userId": "G53MPlOEi2",
         "onModeration": true,
-        "id": "upBfKVz4aJ",
-        "timestamp": 1648148687832,
         "createdTimestamp": 1648148687832,
         "updatedTimestamp": 1655381719833
     },
@@ -486,10 +414,7 @@
             "shortName": "Сибирский федеральный университет",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "1Z8I3pI1LK",
         "onModeration": true,
-        "id": "v5AGXcooV1",
-        "timestamp": 1648148688098,
         "createdTimestamp": 1648148688098,
         "updatedTimestamp": 1665039581626
     },
@@ -506,10 +431,7 @@
             "shortName": "УрФУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "bZfC83otdt",
         "onModeration": true,
-        "id": "1y0I4elT7F",
-        "timestamp": 1648148688347,
         "createdTimestamp": 1648148688347,
         "updatedTimestamp": 1655382710299
     },
@@ -526,10 +448,7 @@
             "shortName": "ЮУрГАУ",
             "founderName": "Министерство сельского хозяйства Российской Федерации"
         },
-        "userId": "9RyrEXNqN3",
         "onModeration": true,
-        "id": "luaRBmEWpL",
-        "timestamp": 1648148688608,
         "createdTimestamp": 1648148688608,
         "updatedTimestamp": 1656316827442
     },
@@ -545,10 +464,7 @@
             "committee": "Организационный комитет по студенческому туризму ЮФУ",
             "shortName": "ЮФУ"
         },
-        "userId": "xWpRDezwdV",
         "onModeration": true,
-        "id": "oSt3HSqPcx",
-        "timestamp": 1648148688865,
         "createdTimestamp": 1648148688865,
         "updatedTimestamp": 1658227420916
     },
@@ -564,10 +480,7 @@
             "photo": "https://stud-files.sabir.pro/files/EnEGonPS7E-ab3e2a4bba395b298f39d9a15c98339304df25ab7531ae8e641195281e9e59d2.jpg",
             "shortName": "АГГПУ им. В.М.Шукшина"
         },
-        "userId": "EnEGonPS7E",
         "onModeration": true,
-        "id": "sUyLknnLTH",
-        "timestamp": 1648148689129,
         "createdTimestamp": 1648148689129,
         "updatedTimestamp": 1655382915419
     },
@@ -584,10 +497,7 @@
             "shortName": "АлтГТУ им. И.И. Ползунова",
             "founderName": "Минобрнауки РФ"
         },
-        "userId": "h8sitAOGtx",
         "onModeration": true,
-        "id": "tHhiFquwEL",
-        "timestamp": 1648148689384,
         "createdTimestamp": 1648148689384,
         "updatedTimestamp": 1655382943850
     },
@@ -603,10 +513,7 @@
             "photo": "https://stud-files.sabir.pro/files/RSiDUfWDkz-04e623917d9da4ece53c5a65f60f553059a0abc9315bb55206722d9922a76d39.png",
             "shortName": "АлтГУ"
         },
-        "userId": "RSiDUfWDkz",
         "onModeration": true,
-        "id": "PbRLMFibxD",
-        "timestamp": 1648148689647,
         "createdTimestamp": 1648148689647,
         "updatedTimestamp": 1655383064151
     },
@@ -622,10 +529,7 @@
             "photo": "https://stud-files.sabir.pro/files/WUYFQ90VNo-fb5733cfd8ec254b12c98c0e5626165664ccd966a344568810dd77e0780b8997.jpg",
             "shortName": "АмГУ"
         },
-        "userId": "WUYFQ90VNo",
         "onModeration": true,
-        "id": "fxy5ZbgT6s",
-        "timestamp": 1648148689904,
         "createdTimestamp": 1648148689904,
         "updatedTimestamp": 1655383121042
     },
@@ -642,10 +546,7 @@
             "site": "http://agiki.ru/",
             "committee": "Студтуризм АГИКИ"
         },
-        "userId": "G88Pqn98ZG",
         "onModeration": true,
-        "id": "wpKrSpSoha",
-        "timestamp": 1648148690159,
         "createdTimestamp": 1648148690159,
         "updatedTimestamp": 1655455709662
     },
@@ -662,10 +563,7 @@
             "shortName": "БГПУ им.М.Акмуллы",
             "founderName": "Минпросвещения россии"
         },
-        "userId": "DfB0WCSJf4",
         "onModeration": true,
-        "id": "Zt7ZUqzZtA",
-        "timestamp": 1648148690429,
         "createdTimestamp": 1648148690429,
         "updatedTimestamp": 1655383190862
     },
@@ -682,10 +580,7 @@
             "shortName": "БашГУ",
             "founderName": "Минобрнауки России"
         },
-        "userId": "juAOD0YgwS",
         "onModeration": true,
-        "id": "piYLaboxzZ",
-        "timestamp": 1648148690827,
         "createdTimestamp": 1648148690827,
         "updatedTimestamp": 1655383212989
     },
@@ -702,10 +597,7 @@
             "shortName": "БГАУ им. В.Я. Горина",
             "founderName": "Минсельхоз России"
         },
-        "userId": "Di5fjb506F",
         "onModeration": true,
-        "id": "f5NWGwcmAC",
-        "timestamp": 1648148691085,
         "createdTimestamp": 1648148691085,
         "updatedTimestamp": 1657690743793
     },
@@ -722,10 +614,7 @@
             "shortName": "БГПУ",
             "founderName": "Министерство просвещения Российской Федерации"
         },
-        "userId": "ON9u2RQEYd",
         "onModeration": true,
-        "id": "Dj4FgP5AtX",
-        "timestamp": 1648148691343,
         "createdTimestamp": 1648148691343,
         "updatedTimestamp": 1655383378968
     },
@@ -737,9 +626,6 @@
             "city": "Воронеж",
             "adminContacts": "Алексей Николаевич Морозов - проректор по воспитательной работе и информационной политике,  252-52-67"
         },
-        "userId": "rpnIqjtTs7",
-        "id": "kaNgqizuoW",
-        "timestamp": 1648148691626,
         "createdTimestamp": 1648148691626,
         "updatedTimestamp": 1648148691626,
         "onModeration": false
@@ -757,10 +643,7 @@
             "shortName": "ВГУЭС",
             "founderName": "Владивостокский государственный университет экономики и сервиса"
         },
-        "userId": "bovEJdCt98",
         "onModeration": true,
-        "id": "3a948YFfE7",
-        "timestamp": 1648148691885,
         "createdTimestamp": 1648148691885,
         "updatedTimestamp": 1655383445066
     },
@@ -776,10 +659,7 @@
             "photo": "https://stud-files.sabir.pro/files/qebqhywquO-4857014f9a52d04ba7ea7d53249074c182a94945f1c5f33e525779d1284c2f0b.jpg",
             "shortName": "ВлГУ"
         },
-        "userId": "qebqhywquO",
         "onModeration": true,
-        "id": "96BtCQVFyp",
-        "timestamp": 1648148692160,
         "createdTimestamp": 1648148692160,
         "updatedTimestamp": 1655383477466
     },
@@ -795,10 +675,7 @@
             "committee": "Управление молодежной политики, воспитательной и внеучебной работы",
             "shortName": "ВолгГТУ"
         },
-        "userId": "eP0boo8ytA",
         "onModeration": true,
-        "id": "m6D52McUgM",
-        "timestamp": 1648148692429,
         "createdTimestamp": 1648148692429,
         "updatedTimestamp": 1655383656359
     },
@@ -815,10 +692,7 @@
             "shortName": "ГМХА им. Н.В. Верещагина",
             "founderName": "Министерство сельского хозяйства РФ"
         },
-        "userId": "AwsX3z9RWe",
         "onModeration": true,
-        "id": "TfhtKyiG9B",
-        "timestamp": 1648148692689,
         "createdTimestamp": 1648148692689,
         "updatedTimestamp": 1655383727055
     },
@@ -834,10 +708,7 @@
             "photo": "https://stud-files.sabir.pro/files/120eVFKRvr-9652ad4e0f01e297594f1e7b6193e1e42c36c199089f298ce7871a99a35bcc38.png",
             "shortName": "ВоГУ"
         },
-        "userId": "120eVFKRvr",
         "onModeration": true,
-        "id": "78OuZhGIra",
-        "timestamp": 1648148692945,
         "createdTimestamp": 1648148692945,
         "updatedTimestamp": 1655383951682
     },
@@ -853,10 +724,7 @@
             "committee": "Отдел по воспитательной работе",
             "shortName": "ВГЛТУ имени Г.Ф. Морозова"
         },
-        "userId": "hTifP6059H",
         "onModeration": true,
-        "id": "hmAuOVo22t",
-        "timestamp": 1648148693207,
         "createdTimestamp": 1648148693207,
         "updatedTimestamp": 1655383831039
     },
@@ -872,10 +740,7 @@
             "committee": "Восточно-Сибирский государственный университет технологий и управления",
             "shortName": "ВСГУТУ"
         },
-        "userId": "vEFbC7wK7X",
         "onModeration": true,
-        "id": "jo2AJt5Dnm",
-        "timestamp": 1648148693586,
         "createdTimestamp": 1648148693586,
         "updatedTimestamp": 1655383906685
     },
@@ -891,10 +756,7 @@
             "committee": "Комитет по реализации программы Студенческого туризма в 2022 г. в ВятГУ",
             "shortName": "ВятГУ"
         },
-        "userId": "3dAR1kd1VG",
         "onModeration": true,
-        "id": "MPiw4BYgGb",
-        "timestamp": 1648148693931,
         "createdTimestamp": 1648148693931,
         "updatedTimestamp": 1656331046895
     },
@@ -911,10 +773,7 @@
             "shortName": "ГГПИ им. В.Г. Короленко",
             "founderName": "Министерство просвещения Российской Федерации"
         },
-        "userId": "pQ0LU7bKFu",
         "onModeration": true,
-        "id": "faxkyrxypI",
-        "timestamp": 1648148695476,
         "createdTimestamp": 1648148695476,
         "updatedTimestamp": 1655385195069
     },
@@ -930,10 +789,7 @@
             "photo": "https://stud-files.sabir.pro/files/R1QpSZylA9-64a12aed8fe3efe8836cb254f0ba57e8c02c7cb08646a218900ff1ff3fa0566c.png",
             "shortName": "ГАГУ"
         },
-        "userId": "R1QpSZylA9",
         "onModeration": true,
-        "id": "dD1vHJEap2",
-        "timestamp": 1648148695765,
         "createdTimestamp": 1648148695765,
         "updatedTimestamp": 1655385229116
     },
@@ -949,10 +805,7 @@
             "photo": "https://stud-files.sabir.pro/files/8VoSASoTBE-08c9e85a1e5088bac5171cd5c429e3da23e4d544860db8db32f16e2f81f8894a.jpg",
             "shortName": "ГУУ"
         },
-        "userId": "8VoSASoTBE",
         "onModeration": true,
-        "id": "srnz17lnIl",
-        "timestamp": 1648148696029,
         "createdTimestamp": 1648148696029,
         "updatedTimestamp": 1655385251889
     },
@@ -968,10 +821,7 @@
             "photo": "https://stud-files.sabir.pro/files/8qzgxSh900-55d8773c52667841e0180212ef19277ba6898ef19c5b36df68422a084818f135.jpg",
             "shortName": "ГГНТУ им. академика М.Д. Миллионщикова"
         },
-        "userId": "8qzgxSh900",
         "onModeration": true,
-        "id": "G4G8HXgObn",
-        "timestamp": 1648148696308,
         "createdTimestamp": 1648148696308,
         "updatedTimestamp": 1655385302629
     },
@@ -988,10 +838,7 @@
             "shortName": "ДГУ",
             "founderName": "Министерство науки и высшего образования"
         },
-        "userId": "0gVibm893f",
         "onModeration": true,
-        "id": "2eghJcvTAB",
-        "timestamp": 1648148696565,
         "createdTimestamp": 1648148696565,
         "updatedTimestamp": 1655385419060
     },
@@ -1008,10 +855,7 @@
             "shortName": "ДГТУ",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "hXivukKvl3",
         "onModeration": true,
-        "id": "ot2VKBccK7",
-        "timestamp": 1648148696822,
         "createdTimestamp": 1648148696822,
         "updatedTimestamp": 1655385446835
     },
@@ -1023,9 +867,6 @@
             "city": "Екатеринбург",
             "adminContacts": "Симонова Ирина Александровна, декан актерского факультета, +79068140016, 8(343)3581829"
         },
-        "userId": "2UGaz0pjDu",
-        "id": "ZEO6Hbv7M9",
-        "timestamp": 1648148697102,
         "createdTimestamp": 1648148697102,
         "updatedTimestamp": 1648148697102,
         "onModeration": false
@@ -1042,10 +883,7 @@
             "photo": "https://stud-files.sabir.pro/files/fvIgugXqnN-5eb31af83c0d846f85c79ce2955069f9773486caf87a3a684f81d76420c7d7c1.jpg",
             "shortName": "ЗабГУ"
         },
-        "userId": "fvIgugXqnN",
         "onModeration": true,
-        "id": "4TEPpDx5lu",
-        "timestamp": 1648148697387,
         "createdTimestamp": 1648148697387,
         "updatedTimestamp": 1655385495202
     },
@@ -1061,10 +899,7 @@
             "committee": "педагог-организатор",
             "shortName": "ЗГУ им. Н.М. Федоровского"
         },
-        "userId": "PfM6rAUUFO",
         "onModeration": true,
-        "id": "qKnKPaWC8b",
-        "timestamp": 1648148697649,
         "createdTimestamp": 1648148697649,
         "updatedTimestamp": 1655385550784
     },
@@ -1081,10 +916,7 @@
             "shortName": "ИвГУ",
             "founderName": "Минобрнауки России"
         },
-        "userId": "p1FyJu1BvB",
         "onModeration": true,
-        "id": "a5PIrXV9Hj",
-        "timestamp": 1648148697909,
         "createdTimestamp": 1648148697909,
         "updatedTimestamp": 1655385643136
     },
@@ -1101,10 +933,7 @@
             "shortName": "ИГХТУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "0qE2iF2WHS",
         "onModeration": true,
-        "id": "Bvd21L9bVQ",
-        "timestamp": 1648148698165,
         "createdTimestamp": 1648148698165,
         "updatedTimestamp": 1655385681249
     },
@@ -1121,10 +950,7 @@
             "shortName": "ИГЭУ им. В.И. Ленина",
             "founderName": "Минобр РФ"
         },
-        "userId": "4MgO2TA1YB",
         "onModeration": true,
-        "id": "3V8qIl2QCk",
-        "timestamp": 1648148698422,
         "createdTimestamp": 1648148698422,
         "updatedTimestamp": 1655385716708
     },
@@ -1141,10 +967,7 @@
             "committee": "Управление внеучебной работы",
             "photo": "https://stud-files.sabir.pro/files/UOD02LNCQi-6d30d858cfaa0c58779006215d685c41826c591d7984228feab4ee3c26defa98.jpeg"
         },
-        "userId": "UOD02LNCQi",
         "onModeration": true,
-        "id": "siTkIcWUrG",
-        "timestamp": 1648148698674,
         "createdTimestamp": 1648148698674,
         "updatedTimestamp": 1655706704599
     },
@@ -1161,10 +984,7 @@
             "shortName": "ИнгГУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "oSBVBg5GHP",
         "onModeration": true,
-        "id": "4LF9jgGwmf",
-        "timestamp": 1648148698927,
         "createdTimestamp": 1648148698927,
         "updatedTimestamp": 1655385784356
     },
@@ -1181,10 +1001,7 @@
             "committee": "Ученый Совет ",
             "photo": "https://stud-files.sabir.pro/files/Tx3KDeaLAU-fbb50b89cee20ec84e6fdb4c57a4e3f013f4c1bdd1fe959b723032ec5c2a7672.jpg"
         },
-        "userId": "Tx3KDeaLAU",
         "onModeration": true,
-        "id": "h1BXadd7xd",
-        "timestamp": 1648148699210,
         "createdTimestamp": 1648148699210,
         "updatedTimestamp": 1663468474016
     },
@@ -1201,10 +1018,7 @@
             "shortName": "ИГУ",
             "founderName": "Минобрнауки России"
         },
-        "userId": "Ki80jjkiWf",
         "onModeration": true,
-        "id": "m2my4WCc5g",
-        "timestamp": 1648148699718,
         "createdTimestamp": 1648148699718,
         "updatedTimestamp": 1656051892108
     },
@@ -1220,10 +1034,7 @@
             "photo": "https://stud-files.sabir.pro/files/HvES3xeSod-fb26ba14b418ab0ac75ac6be487ec7e45659791b0fbb155ecf5b56e3dafde60e.png",
             "shortName": "ИРНИТУ"
         },
-        "userId": "HvES3xeSod",
         "onModeration": true,
-        "id": "QPFDPAK4gA",
-        "timestamp": 1648148699974,
         "createdTimestamp": 1648148699974,
         "updatedTimestamp": 1655386092555
     },
@@ -1240,10 +1051,7 @@
             "committee": "Управление по молодежной политике и воспитательной работе",
             "photo": "https://stud-files.sabir.pro/files/wnkgI4lHZl-900de72a63c68379c8f06c18cd198db481b2138e8470534f6f18d692eba9a3f7.jpg"
         },
-        "userId": "wnkgI4lHZl",
         "onModeration": true,
-        "id": "4viAmEz5CG",
-        "timestamp": 1648148700238,
         "createdTimestamp": 1648148700238,
         "updatedTimestamp": 1656485530013
     },
@@ -1260,10 +1068,7 @@
             "shortName": "КалмГУ им. Б.Б. Городовикова",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "A8LXejtqPK",
         "onModeration": true,
-        "id": "a2yE63MZyD",
-        "timestamp": 1648148700493,
         "createdTimestamp": 1648148700493,
         "updatedTimestamp": 1656418598185
     },
@@ -1280,10 +1085,7 @@
             "shortName": "КГУ им. К.Э. Циолковского",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "pogA6qQPsN",
         "onModeration": true,
-        "id": "HxAHbXJoCq",
-        "timestamp": 1648148700747,
         "createdTimestamp": 1648148700747,
         "updatedTimestamp": 1655389436234
     },
@@ -1300,10 +1102,7 @@
             "shortName": "КЧГУ имени У. Д. Алиева",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "LVwoYlOUnH",
         "onModeration": true,
-        "id": "57tBSEQDUY",
-        "timestamp": 1648148701033,
         "createdTimestamp": 1648148701033,
         "updatedTimestamp": 1655389464619
     },
@@ -1319,10 +1118,7 @@
             "committee": "Отдел информационной и молодежной политики",
             "shortName": "КГМУ Минздрава России"
         },
-        "userId": "gaaCV3HLiL",
         "onModeration": true,
-        "id": "26xo0OfHHu",
-        "timestamp": 1648148701293,
         "createdTimestamp": 1648148701293,
         "updatedTimestamp": 1655389557806
     },
@@ -1339,10 +1135,7 @@
             "photo": "https://stud-files.sabir.pro/files/OpAOPJMph9-eb3ba4ac71a48cca769889baaf9a91a314796e807e0564dad7dfdc30088f8ef9.jpg",
             "committee": "Управление по молодежной политике КГТА им. Дегтярева"
         },
-        "userId": "OpAOPJMph9",
         "onModeration": true,
-        "id": "1AOTTKXXe4",
-        "timestamp": 1648148701884,
         "createdTimestamp": 1648148701884,
         "updatedTimestamp": 1653653346015
     },
@@ -1358,10 +1151,7 @@
             "photo": "https://stud-files.sabir.pro/files/86gsCaKUTV-c02ca61ec0b9ed75acd3c1b49bded278fab0575b101d8744b4aecebe1254f9dc.jpg",
             "shortName": "КГУ"
         },
-        "userId": "86gsCaKUTV",
         "onModeration": true,
-        "id": "opn4uCAnmm",
-        "timestamp": 1648148702149,
         "createdTimestamp": 1648148702149,
         "updatedTimestamp": 1655389635622
     },
@@ -1378,10 +1168,7 @@
             "shortName": "КГПУ им. В.П. Астафьева",
             "founderName": "Минпрос России"
         },
-        "userId": "tKJ4NFU2m1",
         "onModeration": true,
-        "id": "ee9DEkHFxR",
-        "timestamp": 1648148702453,
         "createdTimestamp": 1648148702453,
         "updatedTimestamp": 1655392209775
     },
@@ -1398,10 +1185,7 @@
             "shortName": "КубГУ",
             "founderName": "Минобрнауки России"
         },
-        "userId": "EXGe9zpLMo",
         "onModeration": true,
-        "id": "rQJS14Yfat",
-        "timestamp": 1648148702715,
         "createdTimestamp": 1648148702715,
         "updatedTimestamp": 1655392243937
     },
@@ -1418,10 +1202,7 @@
             "shortName": "КузГТУ им. Т.Ф. Горбачева",
             "founderName": "Минобрнауки России"
         },
-        "userId": "XwQbD4ppqc",
         "onModeration": true,
-        "id": "JPSZmPdqir",
-        "timestamp": 1648148703008,
         "createdTimestamp": 1648148703008,
         "updatedTimestamp": 1655392292986
     },
@@ -1438,10 +1219,7 @@
             "shortName": "КГУ",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "DbZwIW7dqN",
         "onModeration": true,
-        "id": "XlgEFH7xZc",
-        "timestamp": 1648148704221,
         "createdTimestamp": 1648148704221,
         "updatedTimestamp": 1655392324945
     },
@@ -1458,10 +1236,7 @@
             "shortName": "КГМУ Минздрава РФ",
             "founderName": "Министерство здравоохранения Российской Федерации"
         },
-        "userId": "xHTTq9Ft89",
         "onModeration": true,
-        "id": "tYQYaA7WXP",
-        "timestamp": 1648148706041,
         "createdTimestamp": 1648148706041,
         "updatedTimestamp": 1655392376964
     },
@@ -1477,10 +1252,7 @@
             "photo": "https://stud-files.sabir.pro/files/gipwnHUcAS-cf436a6fea04e4c7ca6ed10be0e87619adcdb182eae28d1a71f8761a35253fad.jpg",
             "shortName": "ЛГТУ"
         },
-        "userId": "gipwnHUcAS",
         "onModeration": true,
-        "id": "0uOH0L2Beo",
-        "timestamp": 1648148706298,
         "createdTimestamp": 1648148706298,
         "updatedTimestamp": 1655392906269
     },
@@ -1497,10 +1269,7 @@
             "shortName": "МГТУ им. Г.И. Носова",
             "founderName": "Министерство науки и высшего образования"
         },
-        "userId": "TFA1qFZHek",
         "onModeration": true,
-        "id": "qz9hvttYRf",
-        "timestamp": 1648148707001,
         "createdTimestamp": 1648148707001,
         "updatedTimestamp": 1655392935780
     },
@@ -1517,10 +1286,7 @@
             "shortName": "МГПУ им. М.Е. Евсевьева",
             "founderName": "Министерство просвещения Российской Федерации"
         },
-        "userId": "IAVFO7FMNx",
         "onModeration": true,
-        "id": "ZiLBRvd8GQ",
-        "timestamp": 1648148707262,
         "createdTimestamp": 1648148707262,
         "updatedTimestamp": 1657704341551
     },
@@ -1537,10 +1303,7 @@
             "shortName": "МАРХИ",
             "founderName": "МИНОБРНАУКИ"
         },
-        "userId": "2bzALWbWWS",
         "onModeration": true,
-        "id": "84b5YD1ewJ",
-        "timestamp": 1648148707519,
         "createdTimestamp": 1648148707519,
         "updatedTimestamp": 1655393016568
     },
@@ -1557,10 +1320,7 @@
             "shortName": "МГЛУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "WP4DAJc9Vn",
         "onModeration": true,
-        "id": "50igah3VYY",
-        "timestamp": 1648148707785,
         "createdTimestamp": 1648148707785,
         "updatedTimestamp": 1656923636740
     },
@@ -1572,9 +1332,6 @@
             "city": "Москва",
             "adminContacts": "Вихристюк Олеся Валентиновна, проректор по воспитательной и социально-психологической работе ФГБОУ ВО Московского государственного психолого-педагогического университета (МГППУ) Тел. раб.  8-495-608-07-72, тел. моб.: 8-905-788-28-14"
         },
-        "userId": "2AAW1fvTMH",
-        "id": "qriGPAm0cH",
-        "timestamp": 1648148708052,
         "createdTimestamp": 1648148708052,
         "updatedTimestamp": 1648148708052,
         "onModeration": false
@@ -1592,10 +1349,7 @@
             "shortName": "МГУТУ им. К.Г. Разумовского (ПКУ)",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "dbM8sjCCD0",
         "onModeration": true,
-        "id": "rCG31smHaV",
-        "timestamp": 1648148708311,
         "createdTimestamp": 1648148708311,
         "updatedTimestamp": 1655895137470
     },
@@ -1612,10 +1366,7 @@
             "shortName": "МАГУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "wZxG9wrIv6",
         "onModeration": true,
-        "id": "2L7t27Aoan",
-        "timestamp": 1648148708566,
         "createdTimestamp": 1648148708566,
         "updatedTimestamp": 1655470109194
     },
@@ -1627,9 +1378,6 @@
             "city": "Набережные Челны",
             "adminContacts": "Чиркова Светлана Владимировна, проректор по воспитательной работе 89179260688"
         },
-        "userId": "BmFEcKPDSY",
-        "id": "fKHKVoyC4E",
-        "timestamp": 1648148708847,
         "createdTimestamp": 1648148708847,
         "updatedTimestamp": 1648148708847,
         "onModeration": false
@@ -1646,10 +1394,7 @@
             "photo": "https://stud-files.sabir.pro/files/kD9Ka4VRMP-17749e1a2ce70b4173e5bf88244f83555be80c4a7d34984ed31883ebc1b5d52d.PNG",
             "shortName": "НИУ МГСУ"
         },
-        "userId": "kD9Ka4VRMP",
         "onModeration": true,
-        "id": "MinbdMFeAT",
-        "timestamp": 1648148709106,
         "createdTimestamp": 1648148709106,
         "updatedTimestamp": 1655470192049
     },
@@ -1665,10 +1410,7 @@
             "photo": "https://stud-files.sabir.pro/files/3htPYb5de4-84024de2f91f21d8abd62b1e57ec4732ed66689b452fc7f42775bf1898262581.jpg",
             "shortName": "НГЛУ им. Н. А. Добролюбова"
         },
-        "userId": "3htPYb5de4",
         "onModeration": true,
-        "id": "bXd9A19XVc",
-        "timestamp": 1648148709358,
         "createdTimestamp": 1648148709358,
         "updatedTimestamp": 1655470232674
     },
@@ -1684,10 +1426,7 @@
             "photo": "https://stud-files.sabir.pro/files/76EIYekC94-b265fab30c14fda18ffc084662503f168ea804ca26a53d4a71bbfb5ea552fc74.jpg",
             "shortName": "НГТУ им Р.Е. Алексеева"
         },
-        "userId": "76EIYekC94",
         "onModeration": true,
-        "id": "TX85JNU8Ej",
-        "timestamp": 1648148709618,
         "createdTimestamp": 1648148709618,
         "updatedTimestamp": 1655470286358
     },
@@ -1699,9 +1438,6 @@
             "city": "Нижневартовск",
             "adminContacts": "Кузнецова Елена Валерьевна, начальник управления по делам студентов, 8(3466)451799"
         },
-        "userId": "LBVvqFyyjb",
-        "id": "X9Dv3OAmOw",
-        "timestamp": 1648148709878,
         "createdTimestamp": 1648148709878,
         "updatedTimestamp": 1648148709878,
         "onModeration": false
@@ -1718,10 +1454,7 @@
             "photo": "https://stud-files.sabir.pro/files/9dbJyn3wrP-d12ffd9b9928e131cef410a754a9dd67484029729eaf7f7ea4071477c72c5aad.jpg",
             "shortName": "НовГУ им. Ярослава Мудрого"
         },
-        "userId": "9dbJyn3wrP",
         "onModeration": true,
-        "id": "dFqhAYeWrM",
-        "timestamp": 1648148710141,
         "createdTimestamp": 1648148710141,
         "updatedTimestamp": 1657533542174
     },
@@ -1738,10 +1471,7 @@
             "committee": "Нет",
             "photo": "https://stud-files.sabir.pro/files/t55vH8ee6s-359cc157de8e5c81c71750edecc26457c89084897cb655b233190e37e792d6fb.jpeg"
         },
-        "userId": "t55vH8ee6s",
         "onModeration": true,
-        "id": "UtO16TGN0D",
-        "timestamp": 1648148710401,
         "createdTimestamp": 1648148710401,
         "updatedTimestamp": 1661304603306
     },
@@ -1757,10 +1487,7 @@
             "committee": "Студенческое объединение туристский клуб \"Ювента\"",
             "shortName": "НовГПУ"
         },
-        "userId": "1moIomY1sf",
         "onModeration": true,
-        "id": "0OwBeOAVpu",
-        "timestamp": 1648148710656,
         "createdTimestamp": 1648148710656,
         "updatedTimestamp": 1655470467276
     },
@@ -1777,10 +1504,7 @@
             "shortName": "ОмГПУ",
             "founderName": "Минпросвещения "
         },
-        "userId": "Gg43IYVevC",
         "onModeration": true,
-        "id": "oxEHgHmDGK",
-        "timestamp": 1648148710911,
         "createdTimestamp": 1648148710911,
         "updatedTimestamp": 1655470493722
     },
@@ -1797,10 +1521,7 @@
             "committee": "ФГАОУ ВО «ОмГУ им. Ф.М. Достоевского»",
             "photo": "https://stud-files.sabir.pro/files/d6dXsLD25h-beaadbac2da09bdb678747555d49ae8cd6d4b8d0287748a289397fddd1c767d5.jpg"
         },
-        "userId": "d6dXsLD25h",
         "onModeration": true,
-        "id": "rpctkeroJi",
-        "timestamp": 1648148711213,
         "createdTimestamp": 1648148711213,
         "updatedTimestamp": 1658836945217
     },
@@ -1816,10 +1537,7 @@
             "committee": "ФГБОУ ВО Оренбургский государственный аграрный университет",
             "shortName": "ОГАУ"
         },
-        "userId": "BMfU1FgRgL",
         "onModeration": true,
-        "id": "j3RBXDzKYy",
-        "timestamp": 1648148711488,
         "createdTimestamp": 1648148711488,
         "updatedTimestamp": 1655470551972
     },
@@ -1836,10 +1554,7 @@
             "shortName": "ОрГМУ Минздрава РФ",
             "founderName": "Министерство здравоохранения Российской Федерации"
         },
-        "userId": "J70nTrpDRY",
         "onModeration": true,
-        "id": "mNK23IyN1S",
-        "timestamp": 1648148711741,
         "createdTimestamp": 1648148711741,
         "updatedTimestamp": 1655470585127
     },
@@ -1856,10 +1571,7 @@
             "shortName": "ОГУ им. И.С. Тургенева",
             "founderName": "Минобрнауки РФ"
         },
-        "userId": "ACkiWzhkMG",
         "onModeration": true,
-        "id": "rhZUARXjEk",
-        "timestamp": 1648148712032,
         "createdTimestamp": 1648148712032,
         "updatedTimestamp": 1655470616021
     },
@@ -1876,10 +1588,7 @@
             "shortName": "ПГУАС",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "wtNUXwLP7I",
         "onModeration": true,
-        "id": "I4izvczTRe",
-        "timestamp": 1648148712297,
         "createdTimestamp": 1648148712297,
         "updatedTimestamp": 1655470648622
     },
@@ -1896,10 +1605,7 @@
             "shortName": "ПетрГУ",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "CN2Y58QKCC",
         "onModeration": true,
-        "id": "w0DLuYi0G3",
-        "timestamp": 1648148712551,
         "createdTimestamp": 1648148712551,
         "updatedTimestamp": 1655470678377
     },
@@ -1915,10 +1621,7 @@
             "photo": "https://stud-files.sabir.pro/files/CYrjENjbrB-57c6873412fdd58430dfe0c5085c288db2fa97082eb88ac8f647caac101c52d9.JPG",
             "shortName": "ПГТУ"
         },
-        "userId": "CYrjENjbrB",
         "onModeration": true,
-        "id": "fF9uT4hmmH",
-        "timestamp": 1648148712810,
         "createdTimestamp": 1648148712810,
         "updatedTimestamp": 1655470709484
     },
@@ -1935,10 +1638,7 @@
             "shortName": "ПГУФКСиТ",
             "founderName": "Министерство спорта РФ"
         },
-        "userId": "ryZ91zA8U3",
         "onModeration": true,
-        "id": "0n0CZQ8dvH",
-        "timestamp": 1648148713088,
         "createdTimestamp": 1648148713088,
         "updatedTimestamp": 1655470736552
     },
@@ -1955,10 +1655,7 @@
             "shortName": "ПВГУС",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "PtA4pFzxry",
         "onModeration": true,
-        "id": "G5qYEw8lls",
-        "timestamp": 1648148713400,
         "createdTimestamp": 1648148713400,
         "updatedTimestamp": 1655979458237
     },
@@ -1975,10 +1672,7 @@
             "shortName": "ПГУ им. Шолом-Алейхема",
             "founderName": "Министерство науки и высшего образования Российской Федерации "
         },
-        "userId": "7F9Rmrz0hk",
         "onModeration": true,
-        "id": "4NDsCx6HcW",
-        "timestamp": 1648148714633,
         "createdTimestamp": 1648148714633,
         "updatedTimestamp": 1655472377852
     },
@@ -1995,10 +1689,7 @@
             "shortName": "Приморская ГСХА",
             "founderName": "Министерство науки и высшего образования"
         },
-        "userId": "UqzgjWMApd",
         "onModeration": true,
-        "id": "DpyDDP38a5",
-        "timestamp": 1648148715466,
         "createdTimestamp": 1648148715466,
         "updatedTimestamp": 1668246853528
     },
@@ -2015,10 +1706,7 @@
             "shortName": "ПсковГУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "OtGebQyKmH",
         "onModeration": true,
-        "id": "kZd6Hv9vcd",
-        "timestamp": 1648148715749,
         "createdTimestamp": 1648148715749,
         "updatedTimestamp": 1655472431701
     },
@@ -2035,10 +1723,7 @@
             "shortName": "ПущГЕНИ",
             "founderName": "Российская Федерация"
         },
-        "userId": "11H3zCz6YQ",
         "onModeration": true,
-        "id": "et6y9towWV",
-        "timestamp": 1648148716002,
         "createdTimestamp": 1648148716002,
         "updatedTimestamp": 1655472456440
     },
@@ -2050,9 +1735,6 @@
             "city": "Пятигорск",
             "adminContacts": "Кондракова Эльвира Дмитриевна, советник ректора по воспитательной и внеаудиторной работе, профессор 8(8793)400-170"
         },
-        "userId": "WhN1OrJa0g",
-        "id": "DVfzXYjG7O",
-        "timestamp": 1648148716295,
         "createdTimestamp": 1648148716295,
         "updatedTimestamp": 1648148716295,
         "onModeration": false
@@ -2069,10 +1751,7 @@
             "committee": "Управление молодежной политики",
             "shortName": "РАНХиГС"
         },
-        "userId": "FZsWMpKC90",
         "onModeration": true,
-        "id": "I2kLOO66ie",
-        "timestamp": 1648148716571,
         "createdTimestamp": 1648148716571,
         "updatedTimestamp": 1655472498667
     },
@@ -2089,10 +1768,7 @@
             "shortName": "РГАЗУ",
             "founderName": "Министерство сельского хозяйства"
         },
-        "userId": "1SbLZujjEs",
         "onModeration": true,
-        "id": "YDDGM1NGva",
-        "timestamp": 1648148716850,
         "createdTimestamp": 1648148716850,
         "updatedTimestamp": 1655472522417
     },
@@ -2108,10 +1784,7 @@
             "photo": "https://stud-files.sabir.pro/files/6AmCTbhvUD-5ade38b972792ecce91bf0e712d36a4eacd44d333f65c0fc5419d42d222289b2.jpg",
             "shortName": "РГГУ"
         },
-        "userId": "6AmCTbhvUD",
         "onModeration": true,
-        "id": "ZSXBZcJDAE",
-        "timestamp": 1648148717159,
         "createdTimestamp": 1648148717159,
         "updatedTimestamp": 1655472563542
     },
@@ -2128,10 +1801,7 @@
             "shortName": "РГУТИС",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "hQHf2Ye8O9",
         "onModeration": true,
-        "id": "CdPGcjGGbt",
-        "timestamp": 1648148717428,
         "createdTimestamp": 1648148717428,
         "updatedTimestamp": 1655805404079
     },
@@ -2148,10 +1818,7 @@
             "committee": "Управление по воспитательной работе и молодежной политики",
             "photo": "https://stud-files.sabir.pro/files/1P10ZKmGTy-84b39634da86a6ea935864eaedf6e3c8543dbefcc60265007398f5ad270056ca.jpg"
         },
-        "userId": "1P10ZKmGTy",
         "onModeration": true,
-        "id": "6DqlMuevo5",
-        "timestamp": 1648148717681,
         "createdTimestamp": 1648148717681,
         "updatedTimestamp": 1660812820407
     },
@@ -2163,9 +1830,6 @@
             "city": "Ростов-на-Дону",
             "adminContacts": "Шепилова Елена Григорьевна, проректор по воспитательной работе и социальному развитию, тел.: рабочий +7 (863) 2-726-276, сотовый +79618179966.:"
         },
-        "userId": "JiLArYqAxI",
-        "id": "JNEkpKBIQr",
-        "timestamp": 1648148717944,
         "createdTimestamp": 1648148717944,
         "updatedTimestamp": 1648148717944,
         "onModeration": false
@@ -2178,9 +1842,6 @@
             "city": "Ростов-на-Дону",
             "adminContacts": "Мануйленко Элеонора Владимировна, заведующая кафедрой физического воспитания, спорта и туризма, +7 918 509-77-51"
         },
-        "userId": "XjmXWt4Px8",
-        "id": "CZSw3wajeZ",
-        "timestamp": 1648148718216,
         "createdTimestamp": 1648148718216,
         "updatedTimestamp": 1648148718216,
         "onModeration": false
@@ -2198,10 +1859,7 @@
             "shortName": "РГУ имени С.А. Есенина ",
             "founderName": "Министерство образования и науки Российской Федерации"
         },
-        "userId": "Fxjoo02tFD",
         "onModeration": true,
-        "id": "bcHFFfAhPU",
-        "timestamp": 1648148718476,
         "createdTimestamp": 1648148718476,
         "updatedTimestamp": 1657007852900
     },
@@ -2213,9 +1871,6 @@
             "city": "Самара",
             "adminContacts": "Курина Вера Алексеевна, декан факультета культурологии, социально-культурных и информационных технологий, 8(846)333-26-21, 8(917)810-93-12"
         },
-        "userId": "HPbGcSCL9n",
-        "id": "gKSaD5dMtJ",
-        "timestamp": 1648148718735,
         "createdTimestamp": 1648148718735,
         "updatedTimestamp": 1648148718735,
         "onModeration": false
@@ -2233,10 +1888,7 @@
             "shortName": "СамГТУ",
             "founderName": "Министерство образования и науки Российской Федерации"
         },
-        "userId": "ScfG5x1Fns",
         "onModeration": true,
-        "id": "BWubCqwL1S",
-        "timestamp": 1648148719015,
         "createdTimestamp": 1648148719015,
         "updatedTimestamp": 1655472711842
     },
@@ -2253,10 +1905,7 @@
             "shortName": "СПбГЛТУ",
             "founderName": "МИНОБРНАУКИ РФ"
         },
-        "userId": "FZrUYxKbiI",
         "onModeration": true,
-        "id": "bA6FMNOGoQ",
-        "timestamp": 1648148719280,
         "createdTimestamp": 1648148719280,
         "updatedTimestamp": 1655472748876
     },
@@ -2273,10 +1922,7 @@
             "shortName": "СПбГУПТД",
             "founderName": "Минобрнауки России"
         },
-        "userId": "rZnBj1fIUU",
         "onModeration": true,
-        "id": "qMo5uDyI3R",
-        "timestamp": 1648148719574,
         "createdTimestamp": 1648148719574,
         "updatedTimestamp": 1655472772330
     },
@@ -2293,10 +1939,7 @@
             "shortName": "СПбШЭУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "zv3q44JH3t",
         "onModeration": true,
-        "id": "e7adk1Hc23",
-        "timestamp": 1648148719844,
         "createdTimestamp": 1648148719844,
         "updatedTimestamp": 1657628847990
     },
@@ -2313,10 +1956,7 @@
             "committee": "Организационный комитет по реализации проекта \"Студенческий туризм 2022\"",
             "photo": "https://stud-files.sabir.pro/files/zBdYVJxaBV-755843d0ec77646d7276061c389e1140c67551c2e980fd27d34295e9cc57af9d.jpg"
         },
-        "userId": "zBdYVJxaBV",
         "onModeration": true,
-        "id": "U1wOYhPVSG",
-        "timestamp": 1648148720099,
         "createdTimestamp": 1648148720099,
         "updatedTimestamp": 1655472865681
     },
@@ -2333,10 +1973,7 @@
             "shortName": "СГТУ им. Гагарина Ю.А.",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "VAvNV525OX",
         "onModeration": true,
-        "id": "cbTBx2C1lq",
-        "timestamp": 1648148720358,
         "createdTimestamp": 1648148720358,
         "updatedTimestamp": 1655473008721
     },
@@ -2353,10 +1990,7 @@
             "committee": "Студенческий туристический клуб",
             "photo": "https://stud-files.sabir.pro/files/P7RLT0TeUi-275c0cdfba4d9cc0b5cb2566c97651a3cad12f08b2aa3e73b021db6844c0b78c.jpg"
         },
-        "userId": "P7RLT0TeUi",
         "onModeration": true,
-        "id": "CLkU08Kx7d",
-        "timestamp": 1648148720623,
         "createdTimestamp": 1648148720623,
         "updatedTimestamp": 1655473059586
     },
@@ -2368,9 +2002,6 @@
             "city": "Владикавказ",
             "adminContacts": "Кусова Жанна Георгиевна,  8-918-821-77-72"
         },
-        "userId": "P8bkDOCMO3",
-        "id": "IV4oaxEu9y",
-        "timestamp": 1648148720883,
         "createdTimestamp": 1648148720883,
         "updatedTimestamp": 1648148720883,
         "onModeration": false
@@ -2387,10 +2018,7 @@
             "committee": "Комитет программы \"Студенческий туризм\"",
             "shortName": "СибАДИ"
         },
-        "userId": "NByINOT3Z2",
         "onModeration": true,
-        "id": "IUE4mnNtxJ",
-        "timestamp": 1648148721141,
         "createdTimestamp": 1648148721141,
         "updatedTimestamp": 1655473173367
     },
@@ -2406,10 +2034,7 @@
             "committee": "Туризм СмолГУ",
             "shortName": "СмолГУ"
         },
-        "userId": "Fml2eL381m",
         "onModeration": true,
-        "id": "XDBRtQvcL1",
-        "timestamp": 1648148721399,
         "createdTimestamp": 1648148721399,
         "updatedTimestamp": 1655473207479
     },
@@ -2426,10 +2051,7 @@
             "shortName": "СтГАУ",
             "founderName": "Министерство сельского хозяйства РФ"
         },
-        "userId": "jdz19L2hqd",
         "onModeration": true,
-        "id": "PwszzAwhvR",
-        "timestamp": 1648148721649,
         "createdTimestamp": 1648148721649,
         "updatedTimestamp": 1663060795355
     },
@@ -2445,10 +2067,7 @@
             "photo": "https://stud-files.sabir.pro/files/JwCnPCKEul-97e1ef5c653916852d25cb8b03465265913b8ae8d62440171a8161162398edc0.png",
             "shortName": "СГУ им. Питирима Сорокина"
         },
-        "userId": "JwCnPCKEul",
         "onModeration": true,
-        "id": "GQADM9JMdZ",
-        "timestamp": 1648148721908,
         "createdTimestamp": 1648148721908,
         "updatedTimestamp": 1655473283798
     },
@@ -2465,10 +2084,7 @@
             "shortName": "ТГУ им. Г.Р.Державина",
             "founderName": "Министерство науки и высшего образования"
         },
-        "userId": "Ckzd123gJk",
         "onModeration": true,
-        "id": "DD3giZMido",
-        "timestamp": 1648148722170,
         "createdTimestamp": 1648148722170,
         "updatedTimestamp": 1655473333203
     },
@@ -2485,10 +2101,7 @@
             "shortName": "ТвГУ",
             "founderName": "Минобрнауки России"
         },
-        "userId": "hHsRxz5H7U",
         "onModeration": true,
-        "id": "jh48tvtQ3h",
-        "timestamp": 1648148722435,
         "createdTimestamp": 1648148722435,
         "updatedTimestamp": 1655473356872
     },
@@ -2505,10 +2118,7 @@
             "shortName": "ТОГУ",
             "founderName": "Министерство науки и высшего образования РФ"
         },
-        "userId": "1QZdyVMUC7",
         "onModeration": true,
-        "id": "K4wq04naOG",
-        "timestamp": 1648148722702,
         "createdTimestamp": 1648148722702,
         "updatedTimestamp": 1655473377168
     },
@@ -2524,10 +2134,7 @@
             "committee": "Управление по молодежной политике и воспитательной работе",
             "shortName": "ФГБОУ ВО ТГПУ"
         },
-        "userId": "irVeGdFjQP",
         "onModeration": true,
-        "id": "IEMyFdoyiP",
-        "timestamp": 1648148722987,
         "createdTimestamp": 1648148722987,
         "updatedTimestamp": 1653633707829
     },
@@ -2544,10 +2151,7 @@
             "shortName": "ФГБОУ ВО \"ТувГУ\"",
             "founderName": " Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "JMQSUTJ8Aw",
         "onModeration": true,
-        "id": "L0BLrIYJEk",
-        "timestamp": 1648148723256,
         "createdTimestamp": 1648148723256,
         "updatedTimestamp": 1657537879038
     },
@@ -2564,10 +2168,7 @@
             "shortName": "ТулГУ",
             "founderName": "МИНОБРНАУКИ РФ"
         },
-        "userId": "vgdlBMXijv",
         "onModeration": true,
-        "id": "RH9W1Zlgek",
-        "timestamp": 1648148723512,
         "createdTimestamp": 1648148723512,
         "updatedTimestamp": 1657036275314
     },
@@ -2584,10 +2185,7 @@
             "shortName": "ТИУ",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "7GW9dtBbo7",
         "onModeration": true,
-        "id": "jQgdbE5OQW",
-        "timestamp": 1648148723768,
         "createdTimestamp": 1648148723768,
         "updatedTimestamp": 1656481919520
     },
@@ -2599,9 +2197,6 @@
             "city": "Ижевск",
             "adminContacts": "Баталова Лариса Вячеславовна, директор Института социальных коммуникаций, р.т. 8(3412)916-210, с.т. 9827960537й"
         },
-        "userId": "aJLUIjWnZv",
-        "id": "gBcBiarCNq",
-        "timestamp": 1648148724043,
         "createdTimestamp": 1648148724043,
         "updatedTimestamp": 1648148724043,
         "onModeration": false
@@ -2619,10 +2214,7 @@
             "shortName": "УлГТУ",
             "founderName": "МИНОБР"
         },
-        "userId": "BLBHS09gu4",
         "onModeration": true,
-        "id": "8qRR9tpGix",
-        "timestamp": 1648148724298,
         "createdTimestamp": 1648148724298,
         "updatedTimestamp": 1653470060812
     },
@@ -2634,9 +2226,6 @@
             "city": "Ульяновск",
             "adminContacts": "Попова Светлана Ивановна, начальник отдела культурно-массовой работы, 8(906)392-08-14"
         },
-        "userId": "qwBmZlXndU",
-        "id": "CR3qe2i89P",
-        "timestamp": 1648148724552,
         "createdTimestamp": 1648148724552,
         "updatedTimestamp": 1648148724552,
         "onModeration": false
@@ -2654,10 +2243,7 @@
             "committee": "Студтуризм УГАТУ",
             "photo": "https://stud-files.sabir.pro/files/EjF9OJDD36-13c3955b831f118533dcf2efba419472255e091edd691621c4b9325a0e0ae7ae.jpg"
         },
-        "userId": "HeEjP4p3zw",
         "onModeration": true,
-        "id": "rHqHwOd0AI",
-        "timestamp": 1648148724816,
         "createdTimestamp": 1648148724816,
         "updatedTimestamp": 1654869938634
     },
@@ -2674,10 +2260,7 @@
             "shortName": "УГНТУ",
             "founderName": "ФГБОУ ВО"
         },
-        "userId": "iS1HgvVJnH",
         "onModeration": true,
-        "id": "MEAqAXqyn9",
-        "timestamp": 1648148725084,
         "createdTimestamp": 1648148725084,
         "updatedTimestamp": 1656082450056
     },
@@ -2694,10 +2277,7 @@
             "site": "http://www.ael.ru/",
             "committee": "Оргкомитет по реализации Программы молодежного и студенческого туризма"
         },
-        "userId": "2Lu0MUDsPy",
         "onModeration": true,
-        "id": "Fa46QCtWYj",
-        "timestamp": 1648148725342,
         "createdTimestamp": 1648148725342,
         "updatedTimestamp": 1654212782709
     },
@@ -2714,10 +2294,7 @@
             "shortName": "ФГБОУ ВО \"ХГУ им. Н.Ф. Катанова\"",
             "founderName": "Министерство науки и высшего образования Российской Федерации "
         },
-        "userId": "Gwr2BbCrEc",
         "onModeration": true,
-        "id": "pHmP6LtfYN",
-        "timestamp": 1648148725597,
         "createdTimestamp": 1648148725597,
         "updatedTimestamp": 1653623856284
     },
@@ -2733,10 +2310,7 @@
             "photo": "https://stud-files.sabir.pro/files/fDznraTUFM-c7f210f59028055bb7c32957b57a9a92663d846507a1696b7edef12def90e3d6.png",
             "shortName": "ЧГАФКиС"
         },
-        "userId": "fDznraTUFM",
         "onModeration": true,
-        "id": "cSWqP7PwwK",
-        "timestamp": 1648148725850,
         "createdTimestamp": 1648148725850,
         "updatedTimestamp": 1656561015615
     },
@@ -2751,9 +2325,6 @@
             "photo": "https://stud-files.sabir.pro/files/bRXCau8FcW-5277a28b0aa18041b134b606b9351b8023e4db9fc56f9f2e70b33d37e056b40e.png",
             "committee": "Челябинский государственный университет ССТК \"Саламандр\""
         },
-        "userId": "bRXCau8FcW",
-        "id": "ew25fGhTFS",
-        "timestamp": 1648148726115,
         "createdTimestamp": 1648148726115,
         "updatedTimestamp": 1649743111608,
         "onModeration": false
@@ -2771,10 +2342,7 @@
             "founderName": "Министерство науки и высшего образования РФ",
             "shortName": "ЧГУ"
         },
-        "userId": "XeEf2RUAVO",
         "onModeration": true,
-        "id": "T5U19FJZPF",
-        "timestamp": 1648148726376,
         "createdTimestamp": 1648148726376,
         "updatedTimestamp": 1657188209492
     },
@@ -2791,10 +2359,7 @@
             "founderName": "Министерство науки и высшего образования РФ",
             "shortName": "ЧГУ им. А.А. Кадырова"
         },
-        "userId": "9PC7wm5ikE",
         "onModeration": true,
-        "id": "NJZUAWbv8U",
-        "timestamp": 1648148726634,
         "createdTimestamp": 1648148726634,
         "updatedTimestamp": 1656939764754
     },
@@ -2810,10 +2375,7 @@
             "photo": "https://stud-files.sabir.pro/files/2QJMinZdmw-eda886e1d4742fa0fef2f8568ebcc5f6275738bd3f024727f2815c818257d812.jpg",
             "shortName": "ЧГПУ им. И.Я. Яковлева"
         },
-        "userId": "2QJMinZdmw",
         "onModeration": true,
-        "id": "NCVyh21B4n",
-        "timestamp": 1648148726903,
         "createdTimestamp": 1648148726903,
         "updatedTimestamp": 1654585892387
     },
@@ -2830,10 +2392,7 @@
             "shortName": "ЧГУ им. И.Н. Ульянова",
             "founderName": "Министерство науки и высшего образования Российской Федерации"
         },
-        "userId": "IXFBJGgei4",
         "onModeration": true,
-        "id": "DXCsvpL1jL",
-        "timestamp": 1648148727177,
         "createdTimestamp": 1648148727177,
         "updatedTimestamp": 1653638818224
     },
@@ -2850,10 +2409,7 @@
             "shortName": "ФГБОУ ВО ЮЗГУ",
             "founderName": "Министерство науки и высшего образования "
         },
-        "userId": "klHO1OH0SW",
         "onModeration": true,
-        "id": "nSMq804YiZ",
-        "timestamp": 1648148727440,
         "createdTimestamp": 1648148727440,
         "updatedTimestamp": 1664187769550
     },
@@ -2870,10 +2426,7 @@
             "shortName": "ЮГУ",
             "founderName": "Министерство образования и науки"
         },
-        "userId": "DdNmvPDCXU",
         "onModeration": true,
-        "id": "K0bKsA8CQm",
-        "timestamp": 1648148727707,
         "createdTimestamp": 1648148727707,
         "updatedTimestamp": 1654069694727
     },
@@ -2885,9 +2438,6 @@
             "city": "Троицк",
             "adminContacts": "Чичиланова Светлана Анатольевна, проректор по учебной и воспитательной работе, Телефон +7 (351) 266-65-40"
         },
-        "userId": "kOFgJ8UFdF",
-        "id": "PuosZ6BxVY",
-        "timestamp": 1648148727970,
         "createdTimestamp": 1648148727970,
         "updatedTimestamp": 1648148727970,
         "onModeration": false
@@ -2905,10 +2455,7 @@
             "shortName": "ЯрГУ",
             "founderName": "Министерство науки и высшего образования"
         },
-        "userId": "L6Xsv4Kqes",
         "onModeration": true,
-        "id": "CCVx9t9hmC",
-        "timestamp": 1648148728245,
         "createdTimestamp": 1648148728245,
         "updatedTimestamp": 1659510933154
     },
@@ -2925,10 +2472,7 @@
             "shortName": "Новосибирский государственный технический университет",
             "founderName": "Министерство науки и высшего образования Российской Федерации (Минобрнауки России) "
         },
-        "userId": "dAamqaOVrR",
         "onModeration": true,
-        "id": "pfZRzDWHU4",
-        "timestamp": 1648148728507,
         "createdTimestamp": 1648148728507,
         "updatedTimestamp": 1653897314765
     },
@@ -2944,24 +2488,17 @@
             "photo": "https://stud-files.sabir.pro/files/yypHqu9RTp-d36b8c1d87fe2f023ba6606af9c1f61868cca554826294ce63e37c6a7594d2c3.jpg",
             "shortName": "СПБУТУиЭ"
         },
-        "userId": "yypHqu9RTp",
         "onModeration": true,
-        "id": "sVDuLKyELN",
-        "timestamp": 1648148728784,
         "createdTimestamp": 1648148728784,
         "updatedTimestamp": 1656508511589
     },
     {
-        "userId": "MjtRZsVEQE",
         "name": "ФГБОУ ВО Воронежский государственный аграрный университет имени императора Петра I",
-        "id": "tPdDDonQXQ",
-        "timestamp": 1648647076055,
         "createdTimestamp": 1648647076055,
         "updatedTimestamp": 1648647168840,
         "onModeration": false
     },
     {
-        "userId": "lsw3yCdeJM",
         "name": "ФГБОУ ВО Российский государственный аграрный университет - Московская сельскохозяйственная академия им. К.А. Тимирязева",
         "details": {
             "name": "ФГБОУ ВО \"Российский государственный аграрный университет - МСХА имени К.А. Тимирязева\"",
@@ -2975,13 +2512,10 @@
             "district": "ЦФО"
         },
         "onModeration": true,
-        "id": "OIeOW9vqdF",
-        "timestamp": 1648648100400,
         "createdTimestamp": 1648648100400,
         "updatedTimestamp": 1663056762166
     },
     {
-        "userId": "5o7BM6OuF2",
         "name": "ФГБОУ ВО Алтайский государственный институт культуры",
         "details": {
             "name": "ФГБОУ ВО \"Алтайский государственный институт культуры\"",
@@ -2995,13 +2529,10 @@
             "city": "Барнаул"
         },
         "onModeration": true,
-        "id": "zSo1K9vj2S",
-        "timestamp": 1648712217836,
         "createdTimestamp": 1648712217836,
         "updatedTimestamp": 1655825821057
     },
     {
-        "userId": "TpIsFf7FsS",
         "name": "ФГБОУ ВО Мурманский арктический государственный университет (филиал в г. Апатиты)",
         "details": {
             "photo": "https://stud-files.sabir.pro/files/TpIsFf7FsS-ad7228c3ba9cb4bb56ca9e295e27b506a6dd77715063488847d4af12171d0a19.png",
@@ -3015,8 +2546,6 @@
             "founderName": "Минобрнауки России"
         },
         "onModeration": true,
-        "id": "eFuvgTdTjM",
-        "timestamp": 1648812981449,
         "createdTimestamp": 1648812981449,
         "updatedTimestamp": 1657808791502
     },
@@ -3024,9 +2553,6 @@
         "details": {
             "name": "ФГБОУ ВО Сахалинский государственный университет"
         },
-        "userId": "DEHHFn5Tj9",
-        "id": "xEo2S8E634",
-        "timestamp": 1649427745353,
         "createdTimestamp": 1649427745353,
         "updatedTimestamp": 1649427745353,
         "onModeration": false
@@ -3043,10 +2569,7 @@
             "district": "СКФО",
             "city": "Владикавказ"
         },
-        "userId": "SE5U6iSjFo",
         "onModeration": true,
-        "id": "ePe1BNHE7F",
-        "timestamp": 1649427750891,
         "createdTimestamp": 1649427750891,
         "updatedTimestamp": 1655899998962
     },
@@ -3054,9 +2577,6 @@
         "details": {
             "name": "ФГБОУ ВО Брянский государственный аграрный университет"
         },
-        "userId": "l1jlT5tZ1D",
-        "id": "SBm7MM2AWm",
-        "timestamp": 1649427760182,
         "createdTimestamp": 1649427760182,
         "updatedTimestamp": 1649427760182,
         "onModeration": false
@@ -3073,10 +2593,7 @@
             "district": "СЗФО",
             "city": "Санкт-Петербург"
         },
-        "userId": "9knAvLXPw4",
         "onModeration": true,
-        "id": "GBzwGoJotD",
-        "timestamp": 1649427767555,
         "createdTimestamp": 1649427767555,
         "updatedTimestamp": 1655830263914
     },
@@ -3091,10 +2608,7 @@
             "founderName": "Министерство культуры РФ",
             "district": "ДФО"
         },
-        "userId": "oRKBZjbq6W",
         "onModeration": true,
-        "id": "peU0u79it0",
-        "timestamp": 1649427774013,
         "createdTimestamp": 1649427774013,
         "updatedTimestamp": 1655174581343
     },
@@ -3110,10 +2624,7 @@
             "district": "ЮФО",
             "city": "Майкоп"
         },
-        "userId": "GvWbrzb5Px",
         "onModeration": true,
-        "id": "ty3Cs0GwZX",
-        "timestamp": 1649427778265,
         "createdTimestamp": 1649427778265,
         "updatedTimestamp": 1655820501739
     },
@@ -3121,9 +2632,6 @@
         "details": {
             "name": "ФГБОУ ВО Московский Государственный Университет им. М.В. Ломоносова"
         },
-        "userId": "Lo7saK4IN5",
-        "id": "rdBzb7314O",
-        "timestamp": 1649427783727,
         "createdTimestamp": 1649427783727,
         "updatedTimestamp": 1649427783727,
         "onModeration": false
@@ -3139,10 +2647,7 @@
             "committee": "Студтуризм_УрГПУ",
             "district": "УФО"
         },
-        "userId": "qu1AA922Xk",
         "onModeration": true,
-        "id": "YsvQBosqys",
-        "timestamp": 1649427795414,
         "createdTimestamp": 1649427795414,
         "updatedTimestamp": 1655183694788
     },
@@ -3158,10 +2663,7 @@
             "district": "СЗФО",
             "city": "Архангельск"
         },
-        "userId": "pvcpmMnP1l",
         "onModeration": true,
-        "id": "GmJUDEpeXa",
-        "timestamp": 1649432291721,
         "createdTimestamp": 1649432291721,
         "updatedTimestamp": 1663059728868
     },
@@ -3177,10 +2679,7 @@
             "photo": "https://stud-files.sabir.pro/files/T5dZsWIBz6-f6f0e23a7c2eec1c4c34831c7daa32d4c4566b2f17e41946f307a3c1b37092d3.png",
             "city": "Северодвинск"
         },
-        "userId": "T5dZsWIBz6",
         "onModeration": true,
-        "id": "TDCygGOPZt",
-        "timestamp": 1649432311092,
         "createdTimestamp": 1649432311092,
         "updatedTimestamp": 1657101477228
     },
@@ -3196,10 +2695,7 @@
             "district": "ПФО",
             "city": "Саранск"
         },
-        "userId": "MyEY5VGQEt",
         "onModeration": true,
-        "id": "CYmbyLG4aI",
-        "timestamp": 1649863170133,
         "createdTimestamp": 1649863170133,
         "updatedTimestamp": 1663741129476
     },
@@ -3215,10 +2711,7 @@
             "city": "Пушкин",
             "district": "СЗФО"
         },
-        "userId": "nsNITLorvF",
         "onModeration": true,
-        "id": "JKGOXGb0bA",
-        "timestamp": 1649863177864,
         "createdTimestamp": 1649863177864,
         "updatedTimestamp": 1655804517911
     },
@@ -3234,10 +2727,7 @@
             "district": "ЦФО",
             "city": "Москва"
         },
-        "userId": "IIn3xvNkc0",
         "onModeration": true,
-        "id": "xURQRFr11r",
-        "timestamp": 1649863181664,
         "createdTimestamp": 1649863181664,
         "updatedTimestamp": 1674555838357
     },
@@ -3252,10 +2742,7 @@
             "city": "Йошкар-Ола",
             "district": "ПФО"
         },
-        "userId": "doEgt9yXIv",
         "onModeration": true,
-        "id": "2jB238dMSI",
-        "timestamp": 1649863185711,
         "createdTimestamp": 1649863185711,
         "updatedTimestamp": 1655905792941
     },
@@ -3271,10 +2758,7 @@
             "city": "Москва",
             "district": "ЦФО"
         },
-        "userId": "USwNPwST9K",
         "onModeration": true,
-        "id": "DBjpfpTzVO",
-        "timestamp": 1650028362987,
         "createdTimestamp": 1650028362987,
         "updatedTimestamp": 1657277222543
     },
@@ -3290,10 +2774,7 @@
             "district": "ЦФО",
             "city": "Белгород"
         },
-        "userId": "EjF9OJDD36",
         "onModeration": true,
-        "id": "XaAb8yBTpO",
-        "timestamp": 1650028366306,
         "createdTimestamp": 1650028366306,
         "updatedTimestamp": 1655828024446
     },
@@ -3309,10 +2790,7 @@
             "district": "ПФО",
             "city": "Самара"
         },
-        "userId": "pdz3elxKAE",
         "onModeration": true,
-        "id": "AqSqRDjCkQ",
-        "timestamp": 1650028371027,
         "createdTimestamp": 1650028371027,
         "updatedTimestamp": 1659346041833
     },
@@ -3328,10 +2806,7 @@
             "city": "г. Волоколамск",
             "district": "ЦФО"
         },
-        "userId": "OrD3EPk4eG",
         "onModeration": true,
-        "id": "UNfIav98Xv",
-        "timestamp": 1650474636167,
         "createdTimestamp": 1650474636167,
         "updatedTimestamp": 1663143036368
     },
@@ -3347,10 +2822,7 @@
             "district": "ПФО",
             "city": "Пенза"
         },
-        "userId": "AOkWhTXT7U",
         "onModeration": true,
-        "id": "uuFO63pUK9",
-        "timestamp": 1650474639320,
         "createdTimestamp": 1650474639320,
         "updatedTimestamp": 1663143626110
     },
@@ -3365,10 +2837,7 @@
             "shortName": "Кубанский казачий государственный институт пищевой индустрии бизнеса (филиал) ФГБОУ ВО МГУТУ им. К.Г. Разумовского (Первый казачий университет)",
             "district": "ЮФО"
         },
-        "userId": "gGtwxbIFGj",
         "onModeration": true,
-        "id": "2jGrV0RmHJ",
-        "timestamp": 1650474647662,
         "createdTimestamp": 1650474647662,
         "updatedTimestamp": 1654871709329
     },
@@ -3384,10 +2853,7 @@
             "city": "г. Димитровград",
             "district": "ПФО"
         },
-        "userId": "PBX1JqRAgE",
         "onModeration": true,
-        "id": "5SjLN2TEn0",
-        "timestamp": 1650474650920,
         "createdTimestamp": 1650474650920,
         "updatedTimestamp": 1663143714943
     },
@@ -3403,10 +2869,7 @@
             "city": "г. Ростов-на-Дону",
             "district": "ЮФО"
         },
-        "userId": "BHjtCVKrla",
         "onModeration": true,
-        "id": "9Gfjnx6eno",
-        "timestamp": 1650474653976,
         "createdTimestamp": 1650474653976,
         "updatedTimestamp": 1663143801364
     },
@@ -3422,10 +2885,7 @@
             "city": "г. Вязьма",
             "district": "ЦФО"
         },
-        "userId": "KLtjlCDOFL",
         "onModeration": true,
-        "id": "dUlhzoA3GI",
-        "timestamp": 1650474657123,
         "createdTimestamp": 1650474657123,
         "updatedTimestamp": 1663143861302
     },
@@ -3440,10 +2900,7 @@
             "founderName": "Министерство науки и высшего образования Российской Федерации",
             "district": "СФО"
         },
-        "userId": "IdLjh2FSLB",
         "onModeration": true,
-        "id": "y873TZYquf",
-        "timestamp": 1650474661335,
         "createdTimestamp": 1650474661335,
         "updatedTimestamp": 1655199134586
     },
@@ -3459,10 +2916,7 @@
             "city": "г.Мелеуз",
             "district": "ПФО"
         },
-        "userId": "zAgw8RnyGW",
         "onModeration": true,
-        "id": "g41Uw3vMbr",
-        "timestamp": 1650474665876,
         "createdTimestamp": 1650474665876,
         "updatedTimestamp": 1663143200549
     },
@@ -3478,10 +2932,7 @@
             "city": "Липецк",
             "district": "ЦФО"
         },
-        "userId": "LsMjmE0Ej0",
         "onModeration": true,
-        "id": "B4NDV2lH1h",
-        "timestamp": 1650474669055,
         "createdTimestamp": 1650474669055,
         "updatedTimestamp": 1663143123572
     },
@@ -3496,10 +2947,7 @@
             "founderName": "Министерство культуры Российской Федерации",
             "district": "ЦФО"
         },
-        "userId": "m0pjJaNHzB",
         "onModeration": true,
-        "id": "SWGkjpbchr",
-        "timestamp": 1651143284084,
         "createdTimestamp": 1651143284084,
         "updatedTimestamp": 1655294622262
     },
@@ -3515,10 +2963,7 @@
             "city": "Москва",
             "founderName": "ООО «Общество любителей коммерческих знаний»"
         },
-        "userId": "eJElIiKSIf",
         "onModeration": true,
-        "id": "EtnsnBAFAS",
-        "timestamp": 1651143287450,
         "createdTimestamp": 1651143287450,
         "updatedTimestamp": 1655895113179
     },
@@ -3534,10 +2979,7 @@
             "city": "Омск",
             "district": "СФО"
         },
-        "userId": "6u01thJCJW",
         "onModeration": true,
-        "id": "EWSqPIsvwD",
-        "timestamp": 1651143290750,
         "createdTimestamp": 1651143290750,
         "updatedTimestamp": 1662723649293
     },
@@ -3552,10 +2994,7 @@
             "district": "СКФО",
             "founderName": "ООО «Общество любителей коммерческих знаний»"
         },
-        "userId": "8GbRh3SXqG",
         "onModeration": true,
-        "id": "5xTr7hGfLg",
-        "timestamp": 1651143296925,
         "createdTimestamp": 1651143296925,
         "updatedTimestamp": 1654871841206
     },
@@ -3571,10 +3010,7 @@
             "city": "Брянск",
             "district": "ЦФО"
         },
-        "userId": "m4RP4Z2tng",
         "onModeration": true,
-        "id": "hD1zIswr2r",
-        "timestamp": 1652377350401,
         "createdTimestamp": 1652377350401,
         "updatedTimestamp": 1655830076631
     },
@@ -3590,10 +3026,7 @@
             "district": "ДФО",
             "city": "Улан-Удэ"
         },
-        "userId": "RK2TaFGCzs",
         "onModeration": true,
-        "id": "9JNAK8AWni",
-        "timestamp": 1652692756624,
         "createdTimestamp": 1652692756624,
         "updatedTimestamp": 1655451208300
     },
@@ -3609,10 +3042,7 @@
             "city": "Москва",
             "district": "ЦФО"
         },
-        "userId": "GJS9OGnwB8",
         "onModeration": true,
-        "id": "h7thYIxfmg",
-        "timestamp": 1652694347778,
         "createdTimestamp": 1652694347778,
         "updatedTimestamp": 1655803765126
     },
@@ -3628,10 +3058,7 @@
             "district": "ЦФО",
             "city": "Рыбное, поселок"
         },
-        "userId": "op1dfDSpc5",
         "onModeration": true,
-        "id": "7mCu37xtmm",
-        "timestamp": 1654072149638,
         "createdTimestamp": 1654072149638,
         "updatedTimestamp": 1656342256656
     },
@@ -3647,10 +3074,7 @@
             "committee": "Организационный комитет по туризму в РГРТУ",
             "city": "Рязань"
         },
-        "userId": "m6LhboPM7k",
         "onModeration": true,
-        "id": "XrsyrxsPzG",
-        "timestamp": 1654717510357,
         "createdTimestamp": 1654717510357,
         "updatedTimestamp": 1655458829516
     },
@@ -3666,10 +3090,7 @@
             "committee": "Организационный комитет ФГБОУ ВО \"Астраханский государственный университет им. В.Н. Татищева\"",
             "city": "Астрахань "
         },
-        "userId": "1awcUn1jBN",
         "onModeration": true,
-        "id": "OxmD2h6AjP",
-        "timestamp": 1654860326276,
         "createdTimestamp": 1654860326276,
         "updatedTimestamp": 1656068773319
     },
@@ -3684,10 +3105,7 @@
             "founderName": "Директор Одинцовского филиала МГИМО — кандидат экономических наук Козловская Елена Александровна",
             "committee": "Отдел по социальной и молодежной политике"
         },
-        "userId": "JCNkwsXiNo",
         "onModeration": true,
-        "id": "ddasXacKVT",
-        "timestamp": 1654865417309,
         "createdTimestamp": 1654865417309,
         "updatedTimestamp": 1656942738321
     },
@@ -3702,10 +3120,7 @@
             "district": "ЦФО",
             "photo": "https://stud-files.sabir.pro/files/MWbfgGKeLZ-083b69724ed1e8b19657347556afe947bbb3d4daa4161b78d00fcc433fd26efb.jpg"
         },
-        "userId": "MWbfgGKeLZ",
         "onModeration": true,
-        "id": "arid2TX88B",
-        "timestamp": 1657529085997,
         "createdTimestamp": 1657529085997,
         "updatedTimestamp": 1665480686939
     },
@@ -3721,10 +3136,7 @@
             "city": "Любой город",
             "district": "ЦФО"
         },
-        "userId": "nOLgSHjVZA",
         "onModeration": true,
-        "id": "JPtJ1A157I",
-        "timestamp": 1657616534906,
         "createdTimestamp": 1657616534906,
         "updatedTimestamp": 1657893042287
     },
@@ -3739,10 +3151,7 @@
             "city": "Воронеж",
             "district": "ЦФО"
         },
-        "userId": "SlOaS2v0YC",
         "onModeration": true,
-        "id": "nxtAPPFFMu",
-        "timestamp": 1661974880917,
         "createdTimestamp": 1661974880917,
         "updatedTimestamp": 1662356923334
     },
@@ -3758,10 +3167,7 @@
             "district": "ЦФО",
             "photo": "https://stud-files.sabir.pro/files/bxmpDrKHV9-4dc7c7b2a1cc7600b712f95b8e7bff70991ac5999757e0ae8b7425a93e616ad0.png"
         },
-        "userId": "bxmpDrKHV9",
         "onModeration": true,
-        "id": "BJNfwPrh4j",
-        "timestamp": 1669629405458,
         "createdTimestamp": 1669629405458,
         "updatedTimestamp": 1670918920859
     }

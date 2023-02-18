@@ -1,10 +1,8 @@
 [
     {
-        "userId": "EnEGonPS7E",
-        "universityId": "sUyLknnLTH",
         "createdTimestamp": 1648658272255,
         "details": {
-            "main-info": {
+            "locationId": {
                 "name": "Общежитие АГГПУ имени В.М. Шукшина",
                 "city": "Бийск",
                 "street": "Короленко",
@@ -35,12 +33,14 @@
             ]
         },
         "onModeration": false,
-        "id": "bbcrkJUYn6",
-        "timestamp": 1648658272255,
         "updatedTimestamp": 1657706855469,
         "rooms": {
             "kZnO4G6nit": {
                 "details": {
+                    "dateRange": {
+                        "from": 1656622800000,
+                        "to": 1661893200000
+                    },
                     "isFree": false,
                     "type": "2-х местный номер",
                     "description": "Университет предоставляет для проживания два комфортабельных общежития, располагающихся по адресам: ул. Короленко 55/1,2. В номере есть кровать, стол, шкаф. В секции туалет и душ.\nУспешно действуют студенческие советы общежитий, которые организуют проведение праздников и культурно-досуговых мероприятий.\n",
@@ -52,22 +52,16 @@
                     "price": "100"
                 },
                 "dormitoryId": "bbcrkJUYn6",
-                "userId": "EnEGonPS7E",
-                "universityId": "sUyLknnLTH",
                 "createdTimestamp": 1651068614147,
                 "onModeration": true,
-                "updatedTimestamp": 1656504838657,
-                "id": "kZnO4G6nit",
-                "timestamp": 1651068614147
+                "updatedTimestamp": 1656504838657
             }
         }
     },
     {
-        "userId": "WP4DAJc9Vn",
-        "universityId": "50igah3VYY",
         "createdTimestamp": 1648659631623,
         "details": {
-            "main-info": {
+            "locationId": {
                 "name": "Общежитие  №1",
                 "city": "Москва",
                 "street": "пер. Петроверигский ",
@@ -86,7 +80,6 @@
             "services": [
                 {
                     "isFree": false,
-                    "id": "EOA2lTWwNZ",
                     "name": "Стирка белья",
                     "description": "Стирка белья в стиральной машине",
                     "price": "150"
@@ -106,8 +99,6 @@
             ]
         },
         "onModeration": false,
-        "id": "7zToGNZPfP",
-        "timestamp": 1648659631623,
         "updatedTimestamp": 1657881247767,
         "rooms": {
             "xQgXDTVeco": {
@@ -127,22 +118,16 @@
                     "description": "Комнаты  общежитий предназначены для проживания двух или трех человек, предоставляется пастельное бельё. Кухни для приготовления пищи, гладильные комнаты,  комнаты для умывания  и  туалеты  находятся  на  каждом  этаже.  Душевые  кабины, постирочная и камера хранения,буфет на 40 мест расположены на первом этаже. Здание оснащено лифтом,на кухнях установлены электроплиты (12 единиц по 3 конфорки каждая).\nЗаселение и выезд:\nНА ВЫХОДНЫХ НЕ СЕЛИМ И НЕ ВЫСЕЛЯЕМ\nтолько в рабочие дни:\nпонедельник - четверг с 9:00 до 18:00\nпятница с 9:00 до 16:45"
                 },
                 "dormitoryId": "7zToGNZPfP",
-                "userId": "WP4DAJc9Vn",
-                "universityId": "50igah3VYY",
                 "createdTimestamp": 1649940066657,
                 "onModeration": true,
-                "updatedTimestamp": 1657879448953,
-                "id": "xQgXDTVeco",
-                "timestamp": 1649940066657
+                "updatedTimestamp": 1657879448953
             }
         }
     },
     {
-        "userId": "h8sitAOGtx",
-        "universityId": "tHhiFquwEL",
         "createdTimestamp": 1648689484564,
         "details": {
-            "main-info": {
+            "locationId": {
                 "city": "Барнаул",
                 "coordinates": {
                     "lat": 53.34730609398818,
@@ -162,7 +147,6 @@
             "services": [
                 {
                     "isFree": false,
-                    "id": "ZH3xB5C06zD",
                     "name": "Бассейн, спортивный манеж",
                     "description": "Бассейн 25 м, 6 дорожек. Спортивный манеж с беговыми дорожками, тренажерным залом",
                     "price": "100"
@@ -182,8 +166,6 @@
             ]
         },
         "onModeration": false,
-        "id": "qab1lW4Acx",
-        "timestamp": 1648689484564,
         "updatedTimestamp": 1657706876464,
         "rooms": {
             "1RP2mClQJc": {
@@ -202,13 +184,9 @@
                     "amount": "15"
                 },
                 "dormitoryId": "qab1lW4Acx",
-                "userId": "h8sitAOGtx",
-                "universityId": "tHhiFquwEL",
                 "createdTimestamp": 1649326303297,
                 "onModeration": true,
-                "updatedTimestamp": 1654075840500,
-                "id": "1RP2mClQJc",
-                "timestamp": 1649326303297
+                "updatedTimestamp": 1654075840500
             },
             "eH9lvt4sGA": {
                 "details": {
@@ -226,23 +204,17 @@
                     ]
                 },
                 "dormitoryId": "qab1lW4Acx",
-                "userId": "h8sitAOGtx",
-                "universityId": "tHhiFquwEL",
                 "onModeration": true,
                 "createdTimestamp": 1654071442040,
-                "updatedTimestamp": 1654075861663,
-                "id": "eH9lvt4sGA",
-                "timestamp": 1654071442040
+                "updatedTimestamp": 1654075861663
             }
         }
     },
     {
-        "userId": "DbZwIW7dqN",
-        "universityId": "XlgEFH7xZc",
         "onModeration": false,
         "createdTimestamp": 1648694757323,
         "details": {
-            "main-info": {
+            "locationId": {
                 "name": "Общежитие КГУ №1",
                 "city": "Курган",
                 "street": "Максима Горького",
@@ -291,8 +263,6 @@
                 "https://stud-files.sabir.pro/files/DbZwIW7dqN-6f4f9d4da8e2c61b6a7710ed86698a005ad4b3e05147320da3f0b380b233b477.pdf"
             ]
         },
-        "id": "v7Fa24oSU9",
-        "timestamp": 1648694757323,
         "updatedTimestamp": 1657706879429,
         "rooms": {
             "9Tbvz6m6rw": {
@@ -312,22 +282,16 @@
                     "amount": "10"
                 },
                 "dormitoryId": "v7Fa24oSU9",
-                "userId": "DbZwIW7dqN",
-                "universityId": "XlgEFH7xZc",
                 "onModeration": true,
                 "createdTimestamp": 1653986648416,
-                "updatedTimestamp": 1655868704454,
-                "id": "9Tbvz6m6rw",
-                "timestamp": 1653986648416
+                "updatedTimestamp": 1655868704454
             }
         }
     },
     {
-        "userId": "pogA6qQPsN",
-        "universityId": "HxAHbXJoCq",
         "createdTimestamp": 1648706972796,
         "details": {
-            "main-info": {
+            "locationId": {
                 "name": "Общежитие № 2",
                 "city": "Калуга",
                 "street": "ул. Кутузова",
@@ -358,12 +322,14 @@
             ]
         },
         "onModeration": false,
-        "id": "XBTs3aBQoQ",
-        "timestamp": 1648706972796,
         "updatedTimestamp": 1657706882735,
         "rooms": {
             "VJ9TdpyQ7L": {
                 "details": {
+                    "dateRange": {
+                        "from": 1656622800000,
+                        "to": 1661893200000
+                    },
                     "isFree": false,
                     "type": "2-х местный номер",
                     "amount": "0",
@@ -375,24 +341,19 @@
                     "photos": [
                         "https://stud-files.sabir.pro/files/pogA6qQPsN-e04a1c3f805f9b94e5c840cde9d859dd7e1d8117e3d55fc5fcba255d9bb62607.jpg"
                     ]
+
                 },
                 "dormitoryId": "XBTs3aBQoQ",
-                "userId": "pogA6qQPsN",
-                "universityId": "HxAHbXJoCq",
                 "onModeration": true,
                 "createdTimestamp": 1653981706817,
-                "updatedTimestamp": 1654072990614,
-                "id": "VJ9TdpyQ7L",
-                "timestamp": 1653981706817
+                "updatedTimestamp": 1654072990614
             }
         }
     },
     {
-        "userId": "tKJ4NFU2m1",
-        "universityId": "ee9DEkHFxR",
         "createdTimestamp": 1648707197549,
         "details": {
-            "main-info": {
+            "locationId": {
                 "name": "Общежитие №4",
                 "city": "Красноярск",
                 "street": "Ады Лебедевой",
@@ -424,17 +385,40 @@
             ]
         },
         "onModeration": false,
-        "id": "vnxAoTFrZV",
-        "timestamp": 1648707197549,
         "updatedTimestamp": 1651242181455,
-        "rooms": {}
+        "rooms": {
+            "CMmi2TCytB": {
+                "details": {
+                    "dateRange": {
+                        "from": 1656622800000,
+                        "to": 1661893200000
+                    },
+                    "isFree": false,
+                    "type": "3-х местный номер",
+                    "amount": "35",
+                    "price": "100",
+                    "photos": [
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-1a53dfb6ef04f6f5cf30ac68bb0103ec07663e8ef6a464a38c3e6d01a116f075.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-b99d81fec840a12875b9c7115726c75a347c18b7197882f6923fdbd9bab8d98b.jpeg",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-d5360f72c9888ef02299bf0f0e9e4fb89607e6457f7ca40279bcaf5f7765c11d.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-e2a447e371d6c40512bd5b14a1a53398ead485cfc899cdadb855a1c3296af30c.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-e1a0ed37dd7c24099054fdaf8d7f3e4f0fc98ea7e42c260fcd5cade44a5e5454.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-1ca4f72541a1d784b445d483e08c8b30e391dda45ae6f9c7c0f2ccdad7befa05.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-fed0433b3e3e2067aa788b552b1fff044a0d402af10eb1a5d991dbe1243e4ca9.png",
+                        "https://stud-files.sabir.pro/files/Ckzd123gJk-c593c7e6a7756a939b5f5a37343409afad421c11e120a71e4697a9192c4718b0.png"
+                    ],
+                    "description": "Комнаты расположены в Общежитии №1 по адресу: г.Тамбов, ул. Советская, 181 "
+                },
+                "dormitoryId": "9psGDGqDOv",
+                "createdTimestamp": 1648734438659,
+                "updatedTimestamp": 1648798240651
+            }
+        }
     },
     {
-        "userId": "Ckzd123gJk",
-        "universityId": "DD3giZMido",
         "createdTimestamp": 1648707661614,
         "details": {
-            "main-info": {
+            "locationId": {
                 "name": "Общежитие №1",
                 "city": "Тамбов",
                 "street": "Советская",
@@ -458,7 +442,6 @@
             "services": [
                 {
                     "isFree": false,
-                    "id": "CYJ3L0FN0B",
                     "name": "Прачечная",
                     "price": "60",
                     "description": "Услуги прачечной. Стоимость за одну стирку "
@@ -478,12 +461,14 @@
             ]
         },
         "onModeration": false,
-        "id": "9psGDGqDOv",
-        "timestamp": 1648707661614,
         "updatedTimestamp": 1651138138501,
         "rooms": {
             "CMmi2TCytB": {
                 "details": {
+                    "dateRange": {
+                        "from": 1656622800000,
+                        "to": 1661893200000
+                    },
                     "isFree": false,
                     "type": "3-х местный номер",
                     "amount": "35",
@@ -501,12 +486,8 @@
                     "description": "Комнаты расположены в Общежитии №1 по адресу: г.Тамбов, ул. Советская, 181 "
                 },
                 "dormitoryId": "9psGDGqDOv",
-                "userId": "Ckzd123gJk",
-                "universityId": "DD3giZMido",
                 "createdTimestamp": 1648734438659,
-                "updatedTimestamp": 1648798240651,
-                "id": "CMmi2TCytB",
-                "timestamp": 1648734438659
+                "updatedTimestamp": 1648798240651
             }
         }
     }
