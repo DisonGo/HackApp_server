@@ -12,5 +12,7 @@ sql/models/__init__.py
 sql/models/models.py
 sql/schemes/__init__.py
 sql/schemes/dormitory.py
+sql/schemes/event.py
 sql/schemes/location.py
 sql/schemes/room.py
+sql/schemes/university.py
