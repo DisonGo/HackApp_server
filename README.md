@@ -9,7 +9,7 @@
 
 #### **Основной стек технологий:**
 -   SQLite
--   Python, SQLAlchemy
+-   Python, SQLAlchemy, FastAPI
 -   Git
 -   GitHub
 
