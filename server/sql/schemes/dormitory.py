@@ -65,5 +65,5 @@ class DormitoryCreate(DormitoryBase):
 
 
 class DormitoryGet(DormitoryCreate):
-    details: Optional[Details] = None
+    details: DetailsCreate
 
