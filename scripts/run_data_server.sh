@@ -1,3 +1,3 @@
 source ../venv/bin/activate
 cd ../server/sql
-sh run_server.sh
+python run_server.py
