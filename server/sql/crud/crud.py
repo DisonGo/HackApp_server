@@ -13,7 +13,7 @@ def post_event(db: Session, json_event: event.Event):
 
 
 def get_events(db: Session, skip: int = 0, limit: int = 100):
-    db.query(models.Event).offset(skip).limit(limit).all()
+    return db.query(models.Event).offset(skip).limit(limit).all()
 
 
 def post_university(db: Session, json_university: university.University):
@@ -25,7 +25,7 @@ def post_university(db: Session, json_university: university.University):
 
 
 def get_universities(db: Session, skip: int = 0, limit: int = 100):
-    db.query(models.University).offset(skip).limit(limit).all()
+    return db.query(models.University).offset(skip).limit(limit).all()
 
 
 def post_room(db: Session, json_room: room.Room):
