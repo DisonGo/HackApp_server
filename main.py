@@ -1,3 +1,5 @@
+import hashlib
+
 from fastapi import FastAPI, HTTPException, Depends
 from pydantic import BaseModel
 from sqlalchemy import create_engine
@@ -39,10 +41,8 @@ class UserCreate(BaseModel):
     password: str
 
 
-def hash_password(password: str) -> str:
-    salt = bcrypt.gensalt()
-    hashed_password = bcrypt.hashpw(password.encode('utf-8'), salt)
-    return hashed_password.decode('utf-8')
+def hash_password(password: str):
+    return hashlib.sha256(password.encode()).hexdigest()
 
 
 # API endpoints
@@ -65,10 +65,10 @@ async def login(email: str, password: str):
     db = SessionLocal()
     db_user = db.query(User).filter(User.email == email).first()
     if not db_user:
-        raise HTTPException(status_code=400, detail="Invalid credentials")
-    hashed_password = hash_password(password)
-    if hashed_password != db_user.password:
-        raise HTTPException(status_code=400, detail="Invalid credentials")
+        raise HTTPException(status_code=400, detail="Invalid username")
+    # hashed_password = hash_password(password)
+    if hash_password(password) != db_user.password:
+        raise HTTPException(status_code=400, detail="Invalid password")
     return {"message": "Login successful"}
 
 
