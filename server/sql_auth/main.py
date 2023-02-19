@@ -68,7 +68,7 @@ async def login(email: str, password: str):
     # hashed_password = hash_password(password)
     if hash_password(password) != db_user.password:
         raise HTTPException(status_code=400, detail="Invalid password")
-    return {"message": "Login successful"}
+    return {db_user.email, db_user.username}
 
 
 # Create database and tables if they do not exist
