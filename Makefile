@@ -11,5 +11,9 @@ install:
 	cd ${SCRIPTS_PATH}; bash install.sh
 
 
-run: 
-	cd ${SCRIPTS_PATH}; bash run_env_and_start.sh
+run_data: 
+	cd ${SCRIPTS_PATH}; bash run_data_server.sh
+
+
+run_auth:
+	cd ${SCRIPTS_PATH}; bash run_auth_server.sh

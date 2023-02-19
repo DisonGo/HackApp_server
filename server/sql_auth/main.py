@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 import hashlib
 
 from fastapi import FastAPI, HTTPException, Depends
@@ -7,7 +5,6 @@ from pydantic import BaseModel
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 from sqlalchemy import Column, Integer, String, Boolean
-import bcrypt
 import sqlite3
 
 app = FastAPI()
@@ -77,4 +74,4 @@ async def login(email: str, password: str):
 # Create database and tables if they do not exist
 create_database()
 Base.metadata.create_all(bind=engine)
->>>>>>> origin/develop_cherigra
+
